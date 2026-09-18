@@ -1,0 +1,736 @@
+,,,,,,,,,,,,,,,,,,,,,,,,,
+SUIVI SLA — HELP DESK,,,,,,,,,,,,,,,,,,,,,,,,,
+À compléter quotidiennement par chaque technicien — 1 ligne par ticket traité,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Date du ticket,N° Ticket,Client,Problématique,Priorité,Date/Heure ouverture,Date/Heure résolution,Temps de résolution (h),Technicien,Temps de résolution (min),Client Normalisé,Problématique Normalisée,Date et heure ouverture,Date et Heure résolution,Heure ouverture analytique,Jour ouverture,,,,,,,,,,Technicien Normalisé
+23/06/2026,P260604001,Etam,Fermeture provisoire : demande démontage,Faible,23/06/2026 à 9h40,23/06/2026 à 10h13,0h19min,Sofiane AOUES,"19,00",ETAM,Fermeture Provisoire,23/06/2026  9h40,23/06/2026   10h13,9,Dimanche,,,,,,,,,,Sofiane Aoues
+23/06/2026,P260604023,AMPLIFON,Changement poste,Elevé,23/06/2026 10:30:00,23/06/2026 à 10:44,41:14:00,LOUBNA,"41,23",AMPLIFON,Envoi Matériel,23/06/2026 10:30:00,23/06/2026 10:44:00,10,mardi,,,,,,,,,,Loubna
+23/06/2026,P260604025,Amplifon,Envoi Matériel,Faible,23/06/2026 à 10h40,23/06/2026 à 10h48,0h5min,Sofiane AOUES,"5,00",AMPLIFON,Envoi Matériel,23/06/2026  10h40,23/06/2026   10h48,10,Dimanche,,,,,,,,,,Sofiane Aoues
+23/06/2026,P260604110,Etam,Ajout Matériel,Faible,23/06/2026 à 14h00,23/06/2026 à 14h12,0h10min,Sofiane AOUES,"10,00",ETAM,Ajout Matériel,23/06/2026  14h00,23/06/2026   14h12,14,Dimanche,,,,,,,,,,Sofiane Aoues
+,,,,,,,,,,,,,,,,,,,,,,,,,
+23/06/2026,P260604148,Pos Service,Maintenance matériel,Basse,23/06/2026 à 16h25,23/06/2026 à 16h40,0h13min,Sofiane Aoues,"13,00",POS SERVICE,Maintenance,23/06/2026  16h25,23/06/2026   16h40,16,Dimanche,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604253,Etam,Fermeture définitive,Basse,24/06/2026 à 10h05,24/06/2026 à 10h15,0h10min,Sofiane Aoues,"10,00",ETAM,Fermeture Définitive,24/06/2026  10h05,24/06/2026   10h15,10,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604263,Pos Service,Installation matériel,Basse,24/06/2026 à 10h35,24/06/2026 à 10h45,0h10min,Sofiane Aoues,"10,00",POS SERVICE,Installation,24/06/2026  10h35,24/06/2026   10h45,10,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604229,adopt,INSTALLATIONS ITALIE,FAIBLE,24/06/2026 a 09:07,24/06/2026 a 09:42,35:00:00,LOUBNA,"35,00",ADOPT,Installation,24/06/2026 09:07:00,24/06/2026 09:42:00,9,mercredi,,,,,,,,,,Loubna
+24/06/2026,P260604268,adopt,INSTALLATIONS france,Faible,24/06/2026 a 09:07,24/06/2026 a 09:07,30:00:00,LOUBNA,"30,00",ADOPT,Installation,24/06/2026 09:07:00,24/06/2026 09:07:00,9,mercredi,,,,,,,,,,Loubna
+24/06/2026,P260604283,etam,Maintenance v400,Urgent,24/06/2026 a 09:07,24/06/2026 a 09:07,16:00,LOUBNA,"19,00",ETAM,Maintenance,24/06/2026 09:07:00,24/06/2026 09:07:00,9,mercredi,,,,,,,,,,Loubna
+24/06/2026,P260604317,adopt,NSTALLATIONS ITALIE,Faible,24/06/2026 a 13:08,24/06/2026 a 13:33,21:00,LOUBNA,"21,00",ADOPT,Installation,24/06/2026 13:08:00,24/06/2026 13:33:00,13,mercredi,,,,,,,,,,Loubna
+24/06/2026,P260604318,Pos Service,Installation matériel,Basse,24/06/2026 à 13h05,24/06/2026 à 13h10,0h5min,Sofiane Aoues,"5,00",POS SERVICE,Installation,24/06/2026  13h05,24/06/2026   13h10,13,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604321,Pos Service,Installation matériel,Basse,24/06/2026 à 13h15,24/06/2026 à 13h20,0h5min,Sofiane Aoues,"5,00",POS SERVICE,Installation,24/06/2026  13h15,24/06/2026   13h20,13,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604327,Shoppertrak,Installation matériel,Basse,24/06/2026 à 13h20,24/06/2026 à 13h30,0h8min,Sofiane Aoues,"8,00",SHOPPERTRAK,Installation,24/06/2026  13h20,24/06/2026   13h30,13,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604356,Adopt,Maintenance,Basse,24/06/2026 à 14h45,24/06/2026 à 14h50,0h5min,Sofiane Aoues,"5,00",ADOPT,Maintenance,24/06/2026  14h45,24/06/2026   14h50,14,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604398,Adopt,Installation,Basse,24/06/2026 à 15h50,24/06/2026 à 16h00,0h5min,Sofiane Aoues,"5,00",ADOPT,Installation,24/06/2026  15h50,24/06/2026   16h00,15,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604339,BUT,MAINTENANCE,Faible,24/06/2026 à 15h11,24/06/2026 à 16h01,40min,LOUBNA,"40,00",BUT,Maintenance,24/06/2026  15h11,24/06/2026   16h01,15,Mardi,,,,,,,,,,Loubna
+24/06/2026,P260604409,Shoppertrak,Maintenance,Basse,24/06/2026 à 16h30,24/06/2026 à 16h40,0h8min,Sofiane Aoues,"8,00",SHOPPERTRAK,Maintenance,24/06/2026  16h30,24/06/2026   16h40,16,Mardi,,,,,,,,,,Sofiane Aoues
+24/06/2026,P260604413,Etam,Remplacement matériel,Faible,24/06/2026 à 16h40,24/06/2026 à 16h50,0h8min,Sofiane AOUES,"8,00",ETAM,Remplacement Matériel,24/06/2026  16h40,24/06/2026   16h50,16,Mardi,,,,,,,,,,Sofiane Aoues
+25/06/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+25/06/2026,P260604474,But,Maintenance,Faible,25/06/2026 à 9h30,25/06/2026 à 9h40,0h8min,Sofiane AOUES,"8,00",BUT,Maintenance,25/06/2026  9h30,25/06/2026   9h40,9,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604509,Shoppertrak,Maintenance,Faible,25/06/2026 à 10h10,25/06/2026 à 10h20,0h7min,Sofiane AOUES,"7,00",SHOPPERTRAK,Maintenance,25/06/2026  10h10,25/06/2026   10h20,10,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604512,Shoppertrak,Maintenance,Faible,25/06/2026 à 10h20,25/06/2026 à 10h25,0h3min,Sofiane AOUES,"3,00",SHOPPERTRAK,Maintenance,25/06/2026  10h20,25/06/2026   10h25,10,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604494,Adopt,Installation,Faible,25/06/2026 à 10h00,25/06/2026 à 10h10,0h10min,Sofiane AOUES,"10,00",ADOPT,Installation,25/06/2026  10h00,25/06/2026   10h10,10,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604530,Shoppertrak,Maintenance,Faible,25/06/2026 à 11h10,25/06/2026 à 11h10,0h3min,Sofiane AOUES,"3,00",SHOPPERTRAK,Maintenance,25/06/2026  11h10,25/06/2026   11h10,11,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604481,Shoppertrak,Maintenance,Faible,25/06/2026 à 11h10,25/06/2026 à 11h10,26min,LOUBNA,"26,00",SHOPPERTRAK,Maintenance,25/06/2026  11h10,25/06/2026   11h10,11,Mercredi,,,,,,,,,,Loubna
+25/06/2026,P260604574,Aem Soft,Maintenance,Faible,25/06/2026 à 13h20,25/06/2026 à 13h30,0h7min,Sofiane AOUES,"7,00",AEM SOFT,Maintenance,25/06/2026  13h20,25/06/2026   13h30,13,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604577,ETAM,ENVOI SMART,Faible,25/06/2026 à 14:29,25/06/2026 à 14:45,22min,LOUBNA,"22,00",ETAM,Envoi Matériel,25/06/2026 14:29:00,25/06/2026 14:45:00,14,jeudi,,,,,,,,,,Loubna
+25/06/2026,P260604593,Pos Service,Installation,Faible,25/06/2026 à 14h00,25/06/2026 à 14h10,0h7min,Sofiane AOUES,"7,00",POS SERVICE,Installation,25/06/2026  14h00,25/06/2026   14h10,14,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604616,Pos Service,Maintenance,Faible,25/06/2026 à 15h10,25/06/2026 à 15h20,0h8min,Sofiane AOUES,"8,00",POS SERVICE,Maintenance,25/06/2026  15h10,25/06/2026   15h20,15,Mercredi,,,,,,,,,,Sofiane Aoues
+25/06/2026,P260604611,SHOPPERTRAK,MAINTENANCE,Faible,25/06/2026 à 15h59,25/06/2026 à 16:15,16min,LOUBNA,"16,00",SHOPPERTRAK,Maintenance,25/06/2026  15h59,25/06/2026 16:15:00,15,Mercredi,,,,,,,,,,Loubna
+25/06/2026,P260604614,ETAM,ENVOI IPAD,Faible,25/06/2026 à 16:18,25/06/2026 à 16:40,15:18min,LOUBNA,"15,00",ETAM,Envoi Matériel,25/06/2026 16:18:00,25/06/2026 16:40:00,16,jeudi,,,,,,,,,,Loubna
+25/06/2026,P260604619,But,Maintenance,Faible,25/06/2026 à 15h50,25/06/2026 à 16h00,0h8min,Sofiane AOUES,"8,00",BUT,Maintenance,25/06/2026  15h50,25/06/2026   16h00,15,Mercredi,,,,,,,,,,Sofiane Aoues
+26/06/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+26/06/2026,P260604712,Etam,Intervention Site,Faible,26/06/2026 à 10h00,26/06/2026 à 10h10,0h8min,Sofiane AOUES,"8,00",ETAM,Intervention sur Site,26/06/2026  10h00,26/06/2026   10h10,10,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604725,Etam,Swap Transorteur,Faible,26/06/2026 à 10h20,26/06/2026 à 10h30,0h8min,Sofiane AOUES,"8,00",ETAM,Swap Transporteur,26/06/2026  10h20,26/06/2026   10h30,10,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604745,Aem Soft,Intervention Site,Faible,26/06/2026 à 11h00,26/06/2026 à 11h10,0h8min,Sofiane AOUES,"8,00",AEM SOFT,Intervention sur Site,26/06/2026  11h00,26/06/2026   11h10,11,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604752,Etam,Swap Transorteur,Faible,26/06/2026 à 11h10,26/06/2026 à 11h20,0h5min,Sofiane AOUES,"5,00",ETAM,Swap Transporteur,26/06/2026  11h10,26/06/2026   11h20,11,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604753,Etam,Swap Transorteur,Faible,26/06/2026 à 11h20,26/06/2026 à 11h30,0h3min,Sofiane AOUES,"3,00",ETAM,Swap Transporteur,26/06/2026  11h20,26/06/2026   11h30,11,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604679,SHOPPERTRAK,MAINTENANCE,Faible,26/06/2026 a 09:18,26/06/2026 a 09:26,08:18min,LOUBNA,"8,00",SHOPPERTRAK,Maintenance,26/06/2026 09:18:00,26/06/2026 09:26:00,9,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604692,amplifon,ENVOI ecrant dell,Faible,26/06/2026 a 09:32,26/06/2026 a 09:37,6min,LOUBNA,"6,00",AMPLIFON,Envoi Matériel,26/06/2026 09:32:00,26/06/2026 09:37:00,9,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604718,Aem Soft,maintenance avec envoi piece,Faible,26/06/2026 à 09:54,26/06/2026 à 10:21,17min,LOUBNA,"17,00",AEM SOFT,Maintenance,26/06/2026 09:54:00,26/06/2026 10:21:00,9,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604748,Aem Soft,maintenance avec envoi piece,Faible,26/06/2026 à 11:07,26/06/2026 à 11:26,15min,LOUBNA,"15,00",AEM SOFT,Maintenance,26/06/2026 11:07:00,26/06/2026 11:26:00,11,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604790,Amplifon,Bon de Commande,Faible,26/06/2026 à 13h30,26/06/2026 à 13h35,0h3min,Sofiane AOUES,"3,00",AMPLIFON,Envoi Matériel,26/06/2026  13h30,26/06/2026   13h35,13,Jeudi,,,,,,,,,,Sofiane Aoues
+26/06/2026,P260604800,etam,ENVOI IPAD,Faible,26/06/2026 à 13:39,26/06/2026 à 14:06,13min,LOUBNA,"13,00",ETAM,Envoi Matériel,26/06/2026 13:39:00,26/06/2026 14:06:00,13,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604835,amplifon,ENVOI ecrant dell,Faible,26/06/2026 a 15:24,26/06/2026 a 15:36,7min,LOUBNA,"7,00",AMPLIFON,Envoi Matériel,26/06/2026 15:24:00,26/06/2026 15:36:00,15,vendredi,,,,,,,,,,Loubna
+26/06/2026,P260604821,Etam,Envoi Simple,Faible,26/06/2026 à 14h40,26/06/2026 à 14h50,0h7min,Sofiane AOUES,"7,00",ETAM,Envoi Matériel,26/06/2026  14h40,26/06/2026   14h50,14,Jeudi,,,,,,,,,,Sofiane Aoues
+29/06/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+29/06/2026,P260605029,Etam,Swap Transorteur,Faible,29/06/2026 à 10h30,29/06/2026 à 10h40,0h4min,Sofiane AOUES,"4,00",ETAM,Swap Transporteur,29/06/2026  10h30,29/06/2026   10h40,10,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605032,Etam,Swap Transorteur,Faible,29/06/2026 à 10h30,29/06/2026 à 10h40,0h4min,Sofiane AOUES,"4,00",ETAM,Swap Transporteur,29/06/2026  10h30,29/06/2026   10h40,10,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605049,Aem Soft,Intervention J+1,Faible,29/06/2026 à 11h00,29/06/2026 à 11h10,0h5min,Sofiane AOUES,"5,00",AEM SOFT,Intervention J+1,29/06/2026  11h00,29/06/2026   11h10,11,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605053,Aem Soft,Intervention J+1,Faible,29/06/2026 à 11h10,29/06/2026 à 11h20,0h3min,Sofiane AOUES,"3,00",AEM SOFT,Intervention J+1,29/06/2026  11h10,29/06/2026   11h20,11,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605056,Aem Soft,Intervention J+1,Faible,29/06/2026 à 11h10,29/06/2026 à 11h20,0h3min,Sofiane AOUES,"3,00",AEM SOFT,Intervention J+1,29/06/2026  11h10,29/06/2026   11h20,11,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605043,SHOPPERTRAK,Maintenance,Faible,29/06/2026 à 10:42,29/06/2026 à 10:57,14mi06,LOUBNA,"14,00",SHOPPERTRAK,Maintenance,29/06/2026 10:42:00,29/06/2026 10:57:00,10,lundi,,,,,,,,,,Loubna
+29/06/2026,P260605055,Aem Soft,SOUCIS TEMPERATURE CAISSE,Faible,29/06/2026 à 11h04,29/06/2026 à 11h18,10min 41,LOUBNA,"10,00",AEM SOFT,Maintenance,29/06/2026  11h04,29/06/2026   11h18,11,Lundi,,,,,,,,,,Loubna
+29/06/2026,P260605066,etam,Envoi Simple,faible,29/06/2026 à 11h40,29/06/2026 à 12:05,25min10,LOUBNA,"25,00",ETAM,Envoi Matériel,29/06/2026  11h40,29/06/2026 12:05:00,11,Lundi,,,,,,,,,,Loubna
+29/06/2026,p260605090,etam,remplacement tpe,faible,29/06/2026 à 13:12,29/06/2026 à 13:19,07min,LOUBNA,"7,00",ETAM,Remplacement Matériel,29/06/2026 13:12:00,29/06/2026 13:19:00,13,lundi,,,,,,,,,,Loubna
+29/06/2026,P260605094,Etam,Envoi Simple,Faible,29/06/2026 à 13h15,29/06/2026 à 13h20,0h3min,Sofiane AOUES,"3,00",ETAM,Envoi Matériel,29/06/2026  13h15,29/06/2026   13h20,13,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605106,Aem Soft,Intervention J+1,Faible,29/06/2026 à 13h25,29/06/2026 à 13h30,0h3min,Sofiane AOUES,"3,00",AEM SOFT,Intervention J+1,29/06/2026  13h25,29/06/2026   13h30,13,Lundi,,,,,,,,,,Sofiane Aoues
+29/06/2026,P260605122,etam,remplacement tpe,MOYEN,29/06/2026 à 13:57,29/06/2026 à 14:04,07min,LOUBNA,"7,00",ETAM,Remplacement Matériel,29/06/2026 13:57:00,29/06/2026 14:04:00,13,lundi,,,,,,,,,,Loubna
+29/06/2026,P260605172,SHOPPERTRAK,Maintenance,Faible,29/06/2026 à 1643,29/06/2026 à 16:58,10min,LOUBNA,"10,00",SHOPPERTRAK,Maintenance,29/06/2026 16:43,29/06/2026 16:58:00,16,lundi,,,,,,,,,,Loubna
+30/06/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+30/06/2026,P260605241,SHOPPERTRAK,Maintenance,Faible,30/06/2026 à 08:46,30/06/2026 à 08:56,10min,LOUBNA,"10,00",SHOPPERTRAK,Maintenance,30/06/2026 08:46:00,30/06/2026 08:56:00,8,mardi,,,,,,,,,,Loubna
+30/06/2026,P260605304,Pos Service,Maintenance,Faible,30/06/2026 à 12:02,30/06/2026 à 12:30,28min,LOUBNA,"28,00",POS SERVICE,Maintenance,30/06/2026 12:02:00,30/06/2026 12:30:00,12,mardi,,,,,,,,,,Loubna
+30/06/2026,P260605327,Aem Soft,ON DEMAND,Faible,30/06/2026 à 13:14,30/06/2026 à 13:33,19min,LOUBNA,"19,00",AEM SOFT,Intervention J+1,30/06/2026 13:14:00,30/06/2026 13:33:00,13,mardi,,,,,,,,,,Loubna
+30/06/2026,P260605370,etam,ENVOI IPAD,Faible,30/06/2026 à 14:38,30/06/2026 à 14:38,12min,LOUBNA,"12,00",ETAM,Envoi Matériel,30/06/2026 14:38:00,30/06/2026 14:38:00,14,mardi,,,,,,,,,,Loubna
+30/06/2026,P260605452,axe ,remplacement,Faible,30/06/2026 à 15:30,30/06/2026 à 14:49,19min,LOUBNA,"19,00",AXE E-SANTE,Remplacement Matériel,30/06/2026 15:30:00,30/06/2026 14:49:00,15,mardi,,,,,,,,,,Loubna
+30/06/2026,P260605341,Etam,Swap Transorteur,Faible,29/06/2026 à 13h15,29/06/2026 à 13h20,0h3min,Sofiane AOUES,"3,00",ETAM,Swap Transporteur,29/06/2026  13h15,29/06/2026   13h20,13,Lundi,,,,,,,,,,Sofiane Aoues
+30/06/2026,P260605347,Aem Soft,Intervention J+1,Faible,30/06/2026 à 13h25,30/06/2026 à 13h30,0h3min,Sofiane AOUES,"3,00",AEM SOFT,Intervention J+1,30/06/2026  13h25,30/06/2026   13h30,13,Mardi,,,,,,,,,,Sofiane Aoues
+1/7/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+01/07/2026,P260700078,Adopt,Maintenance,Basse,1/07/2026 à 9h50,1/07/2026 à 10h00,0h10min,Sofiane Aoues,"10,00",ADOPT,Maintenance,1/07/2026  9h50,1/07/2026   10h00,9,#N/A,,,,,,,,,,Sofiane Aoues
+01/07/2026,P260700192,But,Maintenance,Basse,1/07/2026 à 14h30,1/07/2026 à 14h40,0h7min,Sofiane Aoues,"7,00",BUT,Maintenance,1/07/2026  14h30,1/07/2026   14h40,14,#N/A,,,,,,,,,,Sofiane Aoues
+01/07/2026,P260700120,etam,INTERVENTION SITE,basse,01/07/2026 11h40,01/07/2026 11h50,10min,LOUBNA,"10,00",ETAM,Intervention sur Site,01/07/2026 11h40,01/07/2026 11h50,11,Mercredi,,,,,,,,,,Loubna
+01/07/2026,P260700196,etam,ENVOI IPAD,basse,1/07/2026 à 14h42,1/07/2026 à 14h48,6min,LOUBNA,"6,00",ETAM,Envoi Matériel,1/07/2026  14h42,1/07/2026   14h48,14,#N/A,,,,,,,,,,Loubna
+02/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+02/07/2026,P260700322,Aem Soft,Intervention J+1,Faible,02/07/2026 à 10h50,02/07/2026 à 11h00,0h5min,Sofiane AOUES,"5,00",AEM SOFT,Intervention J+1,02/07/2026  10h50,02/07/2026   11h00,10,Jeudi,,,,,,,,,,Sofiane Aoues
+02/07/2026,P260700352,etam,Intervention J+1,basse,02/07/2026 à 11:40,02/07/2026 à 11h51,10min,LOUBNA,"10,00",ETAM,Intervention J+1,02/07/2026 11:40:00,02/07/2026   11h51,11,jeudi,,,,,,,,,,Loubna
+02/07/2026,P260604692,AMPLIFON,Changement poste,basse,02/07/2026 à 13:42,02/07/2026 à 14h51,09min,LOUBNA,"9,00",AMPLIFON,Envoi Matériel,02/07/2026 13:42:00,02/07/2026   14h51,13,jeudi,,,,,,,,,,Loubna
+02/07/2026,P260700401,Shoppertrak,Maintenance,Faible,02/07/2026 à 14h25,02/07/2026 à 14h30,0h5min,Sofiane AOUES,"5,00",SHOPPERTRAK,Maintenance,02/07/2026  14h25,02/07/2026   14h30,14,Jeudi,,,,,,,,,,Sofiane Aoues
+02/07/2026,P260700440,adopt,INSTALLATIONS ITALIE,Faible,02/07/2026 à 14h25,02/07/2026 à 16h15,10min,LOUBNA,"10,00",ADOPT,Installation,02/07/2026  14h25,02/07/2026   16h15,14,Jeudi,,,,,,,,,,Loubna
+02/07/2026,P260700427,adopt,INSTALLATIONS ITALIE,Faible,02/07/2026 à 15h50,02/07/2026 à 16h00,0h10min,Sofiane AOUES,"10,00",ADOPT,Installation,02/07/2026  15h50,02/07/2026   16h00,15,Jeudi,,,,,,,,,,Sofiane Aoues
+02/07/2026,P260700429,adopt,INSTALLATIONS ITALIE,Faible,02/07/2026 à 16h00,02/07/2026 à 16h10,0h5min,Sofiane AOUES,"5,00",ADOPT,Installation,02/07/2026  16h00,02/07/2026   16h10,16,Jeudi,,,,,,,,,,Sofiane Aoues
+02/07/2026,P260700441,Axe E-Sante,Maintenance,Faible,02/07/2026 à 16h20,02/07/2026 à 16h30,0h5min,Sofiane AOUES,"5,00",AXE E-SANTE,Maintenance,02/07/2026  16h20,02/07/2026   16h30,16,Jeudi,,,,,,,,,,Sofiane Aoues
+03/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+03/07/2026,P260700511,etam,Swap Transporteur,faible,03/07/2026 à 09:30:00,03/07/2026 à 9:40,00h6min,Sofiane AOUES,"6,00",ETAM,Swap Transporteur,03/07/2026 09:30:00,03/07/2026 09:40:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700523,Amplifon,Intervention Site,faible,03/07/2026 à 9:50,03/07/2026 à 9:55,00h5min,Sofiane AOUES,"5,00",AMPLIFON,Intervention sur Site,03/07/2026 09:50:00,03/07/2026 09:55:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700527,Amplifon,Intervention Site,faible,03/07/2026 à 9:55,03/07/2026 à 10:00,00h2min,Sofiane AOUES,"2,00",AMPLIFON,Intervention sur Site,03/07/2026 09:55:00,03/07/2026 10:00:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700531,Amplifon,Intervention Site,faible,03/07/2026 à 10:00 ,03/07/2026 à 10:05,00h2min,Sofiane AOUES,"2,00",AMPLIFON,Intervention sur Site,03/07/2026 10:00:00,03/07/2026 10:05:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700538,Amplifon,Intervention Site,faible,03/07/2026 à 09:40 ,03/07/2026 à 09/47,00h7min,LOUBNA,"7,00",AMPLIFON,Intervention sur Site,03/07/2026 09:40:00,03/07/2026   09/47,9,vendredi,,,,,,,,,,Loubna
+03/07/2026,P260700556,Adopt,Installation,faible,03/07/2026 à 10:50,03/07/2026 à 10:55,00h3min,Sofiane AOUES,"3,00",ADOPT,Installation,03/07/2026 10:50:00,03/07/2026 10:55:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700562,Adopt,Installation,faible,03/07/2026 à 10:55,03/07/2026 à 11:00,00h3min,Sofiane AOUES,"3,00",ADOPT,Installation,03/07/2026 10:55:00,03/07/2026 11:00:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700567,Adopt,Installation,faible,03/07/2026 à 10:55,03/07/2026 à 11:00,10MIN,LOUBNA,"10,00",ADOPT,Installation,03/07/2026 10:55:00,03/07/2026 11:00:00,10,vendredi,,,,,,,,,,Loubna
+03/07/2026,P260700607,Aem Soft,Intervention J+1,faible,03/07/2026 à 13:13,03/07/2026 à 13/25,12MIN,LOUBNA,"12,00",AEM SOFT,Intervention J+1,03/07/2026 13:13:00,03/07/2026   13/25,13,vendredi,,,,,,,,,,Loubna
+03/07/2026,P260700636,Pos Service,Installation,faible,03/07/2026 à 14:20,03/07/2026 à 14:30,00h7min,Sofiane AOUES,"7,00",POS SERVICE,Installation,03/07/2026 14:20:00,03/07/2026 14:30:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700647,Aem Soft,Intervention Date Imposee,Faible,03/07/2026 à 14:50,03/07/2026 à 15:00,00h7min,Sofiane AOUES,"7,00",AEM SOFT,Intervention Date Imposée,03/07/2026 14:50:00,03/07/2026 15:00:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+03/07/2026,P260700648,etam,Swap Transporteur,Faible,03/07/2026 à 14:42,03/07/2026 à 14:50,09min,LOUBNA,"9,00",ETAM,Swap Transporteur,03/07/2026 14:42:00,03/07/2026 14:50:00,14,vendredi,,,,,,,,,,Loubna
+03/07/2026,P260700673,etam,ramassage log,Faible,03/07/2026 à 15:36,03/07/2026 à 15:46,10min,LOUBNA,"10,00",ETAM,Ramassage Matériel,03/07/2026 15:36:00,03/07/2026 15:46:00,15,vendredi,,,,,,,,,,Loubna
+06/07/2026,P260700834,Shoppertrak,Installation,Faible,06/07/2026 à 10:00,06/07/2026 à 10:00,00h8min,Sofiane AOUES,"8,00",SHOPPERTRAK,Installation,06/07/2026 10:00:00,06/07/2026 10:00:00,10,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260700846,Shoppertrak,Installation,Faible,06/07/2026 à 10:00,06/07/2026 à 10:00,00h5min,Sofiane AOUES,"5,00",SHOPPERTRAK,Installation,06/07/2026 10:00:00,06/07/2026 10:00:00,10,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260700906,etam,Swap Transporteur,faible,06/07/2026 à 10:45,06/07/2026 à 10:55,00h8min,LOUBNA,"8,00",ETAM,Swap Transporteur,06/07/2026 10:45:00,06/07/2026 10:55:00,10,lundi,,,,,,,,,,Loubna
+06/07/2026,P260700911,etam,Swap Transporteur,Faible,06/07/2026 à 10:55,06/07/2026 à 11:00,00h5min,LOUBNA,"5,00",ETAM,Swap Transporteur,06/07/2026 10:55:00,06/07/2026 11:00:00,10,lundi,,,,,,,,,,Loubna
+06/07/2026,P260701006,Action France,Floorwalker date,Faible,06/07/2026 à 15:30,06/07/2026 à 15:45,00h13min,Sofiane AOUES,"13,00",CENTRIC ACTION,Floorwalker,06/07/2026 15:30:00,06/07/2026 15:45:00,15,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260701010,Action France,Installation date,Faible,06/07/2026 à 15:45,06/07/2026 à 15:50,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Installation New Store,06/07/2026 15:45:00,06/07/2026 15:50:00,15,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260701013,Action France,Handover date,Faible,06/07/2026 à 15:50,06/07/2026 à 15:55,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Handover,06/07/2026 15:50:00,06/07/2026 15:55:00,15,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260701014,Action France,Openings assistance,Faible,06/07/2026 à 15:55,06/07/2026 à 16:00,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Opening Assistance,06/07/2026 15:55:00,06/07/2026 16:00:00,15,lundi,,,,,,,,,,Sofiane Aoues
+06/07/2026,P260701023,INNOVORDER,LIVRAISON,Faible,06/07/2026 à 16:47,06/07/2026 à 16:54,10MIN,LOUBNA,"10,00",INNOVORDER,Envoi Matériel,06/07/2026 16:47:00,06/07/2026 16:54:00,16,lundi,,,,,,,,,,Loubna
+06/07/2026,P260700607,Aem Soft,DEMAND,Faible,06/07/2026 à 15:44,06/07/2026 à 16:01,12min,LOUBNA,"12,00",AEM SOFT,Intervention J+1,06/07/2026 15:44:00,06/07/2026 16:01:00,15,lundi,,,,,,,,,,Loubna
+07/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+07/07/2026,P260701082,Action France,Installation New Store,Faible,07/07/2026 à 09:10,07/07/2026 à 09:25,00h13min,Sofiane AOUES,"13,00",CENTRIC ACTION,Installation New Store,07/07/2026 09:10:00,07/07/2026 09:25:00,9,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701086,Action France,Installation from old to new,Faible,07/07/2026 à 09:25,07/07/2026 à 09:30,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Installation New Store,07/07/2026 09:25:00,07/07/2026 09:30:00,9,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701091,Action France,Dismantling old store,Faible,07/07/2026 à 09:30,07/07/2026 à 09:35,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Dismantling Old Store,07/07/2026 09:30:00,07/07/2026 09:35:00,9,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701094,Action France,Opening assistance,Faible,07/07/2026 à 09:35,07/07/2026 à 09:40,00h5min,Sofiane AOUES,"5,00",CENTRIC ACTION,Opening Assistance,07/07/2026 09:35:00,07/07/2026 09:40:00,9,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701124,Aem Soft,Intervention Date Imposee,Faible,07/07/2026 à 11:00,07/07/2026 à 11:05,00h5min,Sofiane Aoues,"5,00",AEM SOFT,Intervention Date Imposée,07/07/2026 11:00:00,07/07/2026 11:05:00,11,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701126,Aem Soft,Intervention Date Imposee,Faible,07/07/2026 à 11:11,07/07/2026 à 11:10,10MIN,LOUBNA,"10,00",AEM SOFT,Intervention Date Imposée,07/07/2026 11:11:00,07/07/2026 11:10:00,11,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701164,Aem Soft,Intervention +1,Faible,07/07/2026 à 13:00,07/07/2026 à 13:05,00h5min,Sofiane Aoues,"5,00",AEM SOFT,Intervention J+1,07/07/2026 13:00:00,07/07/2026 13:05:00,13,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701170,Aem Soft,Intervention +1,Faible,07/07/2026 à 13:14,07/07/2026 à 13:26,12MIN,LOUBNA,"12,00",AEM SOFT,Intervention J+1,07/07/2026 13:14:00,07/07/2026 13:26:00,13,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701178,Shoppertrak,Maintenance,Faible,07/07/2026 à 13:30,07/07/2026 à 13:35,00h5min,Sofiane Aoues,"5,00",SHOPPERTRAK,Maintenance,07/07/2026 13:30:00,07/07/2026 13:35:00,13,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701188,Aem Soft,Intervention +1,Faible,07/07/2026 à 13:45,07/07/2026 à 14/00,11MIN,LOUBNA,"11,00",AEM SOFT,Intervention J+1,07/07/2026 13:45:00,07/07/2026   14/00,13,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701201,ETAM,REMPLACEMENT,Faible,07/07/2026 à 14/10,07/07/2026 à 14/20,10MIN,LOUBNA,"10,00",ETAM,Remplacement Matériel,07/07/2026 14:10:00,07/07/2026 14:20:00,14,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701208,Etam,Ramassage Matériel,Faible,07/07/2026 à 14:30,07/07/2026 à 13:37,00h6min,Sofiane Aoues,"6,00",ETAM,Ramassage Matériel,07/07/2026 14:30:00,07/07/2026 13:37:00,14,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701223,Etam,remplacement imprimante,Faible,07/07/2026 à 14:30,07/07/2026 à 14:30,9MIN,LOUBNA,"9,00",ETAM,Remplacement Matériel,07/07/2026 14:30:00,07/07/2026 14:30:00,14,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701226,Etam,Envoi SImple,Faible,07/07/2026 à 15:00,07/07/2026 à 15:05,00h5min,Sofiane Aoues,"5,00",ETAM,Envoi Matériel,07/07/2026 15:00:00,07/07/2026 15:05:00,15,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701222,Etam,Envoi SImple,Faible,07/07/2026 à 15:05,07/07/2026 à 15:10,00h5min,Sofiane Aoues,"5,00",ETAM,Envoi Matériel,07/07/2026 15:05:00,07/07/2026 15:10:00,15,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701217,Amplifon,Envoi Matériel,Faible,07/07/2026 à 15:10,07/07/2026 à 15:15,00h3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,07/07/2026 15:10:00,07/07/2026 15:15:00,15,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701227,Etam,remplacement smat,Faible,07/07/2026 à 15:02,07/07/2026 à 15:11,06min,LOUBNA,"6,00",ETAM,Remplacement Matériel,07/07/2026 15:02:00,07/07/2026 15:11:00,15,mardi,,,,,,,,,,Loubna
+07/07/2026,P260701239,But,Maintenance,Faible,07/07/2026 à 15:40,07/07/2026 à 15:45,00h5min,Sofiane Aoues,"5,00",BUT,Maintenance,07/07/2026 15:40:00,07/07/2026 15:45:00,15,mardi,,,,,,,,,,Sofiane Aoues
+07/07/2026,P260701242,Shoppertrak,Maintenance,Faible,07/07/2026 à 15:39,07/07/2026 à 15:47,06min,LOUBNA,"6,00",SHOPPERTRAK,Maintenance,07/07/2026 15:39:00,07/07/2026 15:47:00,15,mardi,,,,,,,,,,Loubna
+08/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+08/07/2026,P260701322,Amplifon,Commande PC,faible,08/07/2026 à 9:40,08/07/2026 à 9:45,00h3min,Sofiane AOUES,"3,00",AMPLIFON,Envoi Matériel,08/07/2026 09:40:00,08/07/2026 09:45:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701330,Amplifon,Intervention Site,faible,08/07/2026 à 9:45,08/07/2026 à 09:50,00h3min,Sofiane AOUES,"3,00",AMPLIFON,Intervention sur Site,08/07/2026 09:45:00,08/07/2026 09:50:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701339,Shoppertrak,Maintenance,faible,08/07/2026 à 10:00,08/07/2026 à 10:09,9min,LOUBNA,"9,00",SHOPPERTRAK,Maintenance,08/07/2026 10:00:00,08/07/2026 10:09:00,10,mercredi,,,,,,,,,,Loubna
+08/07/2026,P260701351,Aem Soft,Intervention J+1,Faible,08/07/2026 à 10:30,08/07/2026 à 10:35,00h5min,Sofiane AOUES,"5,00",AEM SOFT,Intervention J+1,08/07/2026 10:30:00,08/07/2026 10:35:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701364,Etam,Swap Transporteur,Faible,08/07/2026 à 10:45,08/07/2026 à 10:50,00h5min,Sofiane AOUES,"5,00",ETAM,Swap Transporteur,08/07/2026 10:45:00,08/07/2026 10:50:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701367,Etam,Swap Transporteur,Faible,08/07/2026 à 10:50,08/07/2026 à 10:55,00h5min,Sofiane AOUES,"5,00",ETAM,Swap Transporteur,08/07/2026 10:50:00,08/07/2026 10:55:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701372,Amplifon,Intervention Site,Faible,08/07/2026 à 10:50,08/07/2026 à 10:55,08MIN,LOUBNA,"8,00",AMPLIFON,Intervention sur Site,08/07/2026 10:50:00,08/07/2026 10:55:00,10,mercredi,,,,,,,,,,Loubna
+08/07/2026,P260701380,Aem Soft,Intervention J+1,Faible,08/07/2026 à 11:30,08/07/2026 à 11:35,00h4min,Sofiane AOUES,"4,00",AEM SOFT,Intervention J+1,08/07/2026 11:30:00,08/07/2026 11:35:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701405,Etam,Fermeture Provisoire,Faible,08/07/2026 à 13:00,08/07/2026 à 13:10,00h6min,Sofiane AOUES,"6,00",ETAM,Fermeture Provisoire,08/07/2026 13:00:00,08/07/2026 13:10:00,13,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701439,But,Maintenance,Faible,08/07/2026 à 14:25,08/07/2026 à 14:30,00h4min,Sofiane AOUES,"4,00",BUT,Maintenance,08/07/2026 14:25:00,08/07/2026 14:30:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+08/07/2026,P260701439,but,Maintenance,Faible,08/07/2026 à 14:30,08/07/2026 à 14:41,11min,LOUBNA,"11,00",BUT,Maintenance,08/07/2026 14:30:00,08/07/2026 14:41:00,14,mercredi,,,,,,,,,,Loubna
+08/07/2026,P260701437,etam,Maintenance,Faible,08/07/2026 à 14:05,08/07/2026 à 14:14,9mi,LOUBNA,"9,00",ETAM,Maintenance,08/07/2026 14:05:00,08/07/2026 14:14:00,14,mercredi,,,,,,,,,,Loubna
+08/07/2026,P260701468.,Shoppertrak,Maintenance,Faible,08/07/2026 à 15:47,08/07/2026 à 15:51,4min,LOUBNA,"4,00",SHOPPERTRAK,Maintenance,08/07/2026 15:47:00,08/07/2026 15:51:00,15,mercredi,,,,,,,,,,Loubna
+09/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+09/07/2026,P260701528,Adopt,Maintenance,Faible,09/07/2026 à 09:00,09/07/2026 à 09:10,00h4min,Sofiane AOUES,"4,00",ADOPT,Maintenance,09/07/2026 09:00:00,09/07/2026 09:10:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701534,Barron McCan,Maintenance,Faible,09/07/2026 à 09:20,09/07/2026 à 09:30,00h8min,Sofiane AOUES,"8,00",BARRON MCCANN,Maintenance,09/07/2026 09:20:00,09/07/2026 09:30:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701561,Adopt,Maintenance,Faible,09/07/2026 à 10:06,09/07/2026 à10:17,11min,LOUBNA,"11,00",ADOPT,Maintenance,09/07/2026 10:06:00,09/07/2026 10:17:00,10,jeudi,,,,,,,,,,Loubna
+09/07/2026,P260701580,Etam,Swap Transporteur,Faible,09/07/2026 à 11:00,09/07/2026 à 11:05,00h4min,Sofiane AOUES,"4,00",ETAM,Swap Transporteur,09/07/2026 11:00:00,09/07/2026 11:05:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701584,Aem Soft,Intervention J+1,Faible,09/07/2026 à 11:10,09/07/2026 à 11:15,00h3min,Sofiane AOUES,"3,00",AEM SOFT,Intervention J+1,09/07/2026 11:10:00,09/07/2026 11:15:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701586,etam,Swap Transporteur,Faible,09/07/2026 à 11:14,09/07/2026 à 11:23,9min,LOUBNA,"9,00",ETAM,Swap Transporteur,09/07/2026 11:14:00,09/07/2026 11:23:00,11,jeudi,,,,,,,,,,Loubna
+09/07/2026,P260701592,But,Maintenance ,Faible,09/07/2026 à 11:50,09/07/2026 à 12:00,00h5min,Sofiane AOUES,"5,00",BUT,Maintenance,09/07/2026 11:50:00,09/07/2026 12:00:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701614,Etam,Swap Transporteur,Faible,09/07/2026 à 13:15,09/07/2026 à 13:25,00h7min,Sofiane AOUES,"7,00",ETAM,Swap Transporteur,09/07/2026 13:15:00,09/07/2026 13:25:00,13,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701627,Shoppertrak,Maintenance,Faible,09/07/2026 à 13:45,09/07/2026 à 13:55,00h6min,Sofiane AOUES,"6,00",SHOPPERTRAK,Maintenance,09/07/2026 13:45:00,09/07/2026 13:55:00,13,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701627,Shoppertrak,Maintenance,Faible,09/07/2026 à 13:44,09/07/2026 à 13:556,13min,LOUBNA,"13,00",SHOPPERTRAK,Maintenance,09/07/2026 13:44:00,09/07/2026 22:16:00,13,jeudi,,,,,,,,,,Loubna
+09/07/2026,P260701642,Aem Soft,Intervention J+1,Faible,09/07/2026 à 14:20,09/07/2026 à 14:25,00h4min,Sofiane AOUES,"4,00",AEM SOFT,Intervention J+1,09/07/2026 14:20:00,09/07/2026 14:25:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701657,etam,Swap Transporteur,Faible,09/07/2026 à 15:03,09/07/2026 à 15:13,10min,LOUBNA,"10,00",ETAM,Swap Transporteur,09/07/2026 15:03:00,09/07/2026 15:13:00,15,jeudi,,,,,,,,,,Loubna
+09/07/2026,P260701662,Pos Service,Maintenance,Faible,09/07/2026 à 15:20,09/07/2026 à 15:30,00h10min,Sofiane AOUES,"10,00",POS SERVICE,Maintenance,09/07/2026 15:20:00,09/07/2026 15:30:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+09/07/2026,P260701665,etam,Swap Transporteur,Faible,09/07/2026 à 15:23,09/07/2026 à 15:30,7MIN,LOUBNA,"7,00",ETAM,Swap Transporteur,09/07/2026 15:23:00,09/07/2026 15:30:00,15,jeudi,,,,,,,,,,Loubna
+10/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+10/07/2026,P260701738,Shoppertrak,Maintenance,Faible,10/07/2026 à 09:00,10/07/2026 à 09:10,00h4min,Sofiane AOUES,"4,00",SHOPPERTRAK,Maintenance,10/07/2026 09:00:00,10/07/2026 09:10:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701748,Etam,Ajout matériel,Faible,10/07/2026 à 09:10,10/07/2026 à 09:20,00h7min,Sofiane AOUES,"7,00",ETAM,Ajout Matériel,10/07/2026 09:10:00,10/07/2026 09:20:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701758,Etam,Swap Transporteur,Faible,10/07/2026 à 09:30,10/07/2026 à 09:40,00h6min,Sofiane AOUES,"6,00",ETAM,Swap Transporteur,10/07/2026 09:30:00,10/07/2026 09:40:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,: P260701753,Etam,Ajout matériel,Faible,10/07/2026 à 09:29,10/07/2026 à 09:36,07min,LOUBNA,"7,00",ETAM,Ajout Matériel,10/07/2026 09:29:00,10/07/2026 09:36:00,9,vendredi,,,,,,,,,,Loubna
+10/07/2026,P260701786,Axxe E-Santé,Maintenance,Faible,10/07/2026 à 10:10,10/07/2026 à 10:20,00h9min,Sofiane AOUES,"9,00",AXE E-SANTE,Maintenance,10/07/2026 10:10:00,10/07/2026 10:20:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701788,Etam,Ajout matériel,Faible,10/07/2026 à 10:24,10/07/2026 à 10:29,07min,LOUBNA,"7,00",ETAM,Ajout Matériel,10/07/2026 10:24:00,10/07/2026 10:29:00,10,vendredi,,,,,,,,,,Loubna
+10/07/2026,P260701803,Etam,Ajout matériel,Faible,10/07/2026 à 10:54,10/07/2026 à 11:02,08min,LOUBNA,"8,00",ETAM,Ajout Matériel,10/07/2026 10:54:00,10/07/2026 11:02:00,10,vendredi,,,,,,,,,,Loubna
+10/07/2026,P260701847,Shoppertrak,Maintenance,Faible,10/07/2026 à 13:40,10/07/2026 à 13:50,00h8min,Sofiane AOUES,"8,00",SHOPPERTRAK,Maintenance,10/07/2026 13:40:00,10/07/2026 13:50:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701855,adopt,Maintenance,Faible,10/07/2026 à 13:33,10/07/2026 à 13:42,9min,LOUBNA,"9,00",ADOPT,Maintenance,10/07/2026 13:33:00,10/07/2026 13:42:00,13,vendredi,,,,,,,,,,Loubna
+10/07/2026,P260701856,Adopt,Maintenance,Faible,10/07/2026 à 14:00,10/07/2026 à 14:10,00h4min,Sofiane AOUES,"4,00",ADOPT,Maintenance,10/07/2026 14:00:00,10/07/2026 14:10:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701866,Shoppertrak,Maintenance,Faible,10/07/2026 à 14:18,10/07/2026 à 14:30,12min,LOUBNA,"12,00",SHOPPERTRAK,Maintenance,10/07/2026 14:18:00,10/07/2026 14:30:00,14,vendredi,,,,,,,,,,Loubna
+10/07/2026,P260701884,Shoppertrak,Maintenance,Faible,10/07/2026 à 15:30,10/07/2026 à 15:40,00h5min,Sofiane AOUES,"5,00",SHOPPERTRAK,Maintenance,10/07/2026 15:30:00,10/07/2026 15:40:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+10/07/2026,P260701893,Amplifon,Commande EPSON,faible,10/07/2026 à 16:30,10/07/2026 à 16:35,5min,LOUBNA,"5,00",AMPLIFON,Envoi Matériel,10/07/2026 16:30:00,10/07/2026 16:35:00,16,vendredi,,,,,,,,,,Loubna
+13/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+13/07/2026,P260702003,But,Maintenance,Basse,13/07/2026 à 8h40,1/07/2026 à 08h50,0h5min,Sofiane Aoues,"5,00",BUT,Maintenance,13/07/2026  8h40,1/07/2026   08h50,8,Jeudi,,,,,,,,,,Sofiane Aoues
+13/07/2026,P260702032,Aem Soft,Intervention J+1,Basse,13/07/2026 à 10h15,1/07/2026 à 10h20,0h5min,Sofiane Aoues,"5,00",AEM SOFT,Intervention J+1,13/07/2026  10h15,1/07/2026   10h20,10,Jeudi,,,,,,,,,,Sofiane Aoues
+13/07/2026,P260702040,Etam,Swap Transporteur,Basse,13/07/2026 à 10h25,1/07/2026 à 10h30,0h3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,13/07/2026  10h25,1/07/2026   10h30,10,Jeudi,,,,,,,,,,Sofiane Aoues
+13/07/2026,P260702041,Etam,Maintenance,Basse,13/07/2026 à 10h06,13/07/2026 à 10h27,11min,LOUBNA,"11,00",ETAM,Maintenance,13/07/2026  10h06,13/07/2026   10h27,10,Jeudi,,,,,,,,,,Loubna
+13/07/2026,P260702045,Aem Soft,Intervention J+1,Basse,13/07/2026 à 10h31,13/07/2026 à 10h42,11min,LOUBNA,"11,00",AEM SOFT,Intervention J+1,13/07/2026  10h31,13/07/2026   10h42,10,Jeudi,,,,,,,,,,Loubna
+13/07/2026,P260702077,Promethean,Maintenance,Basse,13/07/2026 à 13h05,13/07/2026 à 13h15,0h9min,Sofiane Aoues,"9,00",PROMETHEAN,Maintenance,13/07/2026  13h05,13/07/2026   13h15,13,Jeudi,,,,,,,,,,Sofiane Aoues
+13/07/2026,P260702116,Etam,Swap Transporteur,Basse,13/07/2026 à 15h20,13/07/2026 à 15h25,0h3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,13/07/2026  15h20,13/07/2026   15h25,15,Jeudi,,,,,,,,,,Sofiane Aoues
+15/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+15/07/2026,P260702265,Pos Service,Maintenance,Basse,15/07/2026 à 9h10,15/07/2026 à 09h15,0h4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,15/07/2026  9h10,15/07/2026   09h15,9,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702281,ETAM SIEGE,Maintenance,Basse,15/07/2026 à 9h42,15/07/2026 à 09h56,14MIN,LOUBNA,"14,00",ETAM,Maintenance,15/07/2026  9h42,15/07/2026   09h56,9,Samedi,,,,,,,,,,Loubna
+15/07/2026,P260702311,ETAM ,Swap Transporteur,Basse,15/07/2026 à 10h40,15/07/2026 à 10h45,0h4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,15/07/2026  10h40,15/07/2026   10h45,10,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,15/07/2026,ADOPT,MAINTENANCE,Basse,15/07/2026 à 10h53,15/07/2026 à 11/02,09MIN,LOUBNA,"9,00",ADOPT,Maintenance,15/07/2026  10h53,15/07/2026   11/02,10,Samedi,,,,,,,,,,Loubna
+15/07/2026,P260702324,Pos Service,Maintenance,Basse,15/07/2026 à 11h10,15/07/2026 à 11h20,0h8min,Sofiane Aoues,"8,00",POS SERVICE,Maintenance,15/07/2026  11h10,15/07/2026   11h20,11,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702327,Pos Service,Maintenance,Basse,15/07/2026 à 11h20,15/07/2026 à 11h27,0h6min,Sofiane Aoues,"6,00",POS SERVICE,Maintenance,15/07/2026  11h20,15/07/2026   11h27,11,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702329,Aem Soft,Maintenance,Basse,15/07/2026 à 11h30,15/07/2026 à 11h35,0h3min,Sofiane Aoues,"3,00",AEM SOFT,Maintenance,15/07/2026  11h30,15/07/2026   11h35,11,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702330,Aem Soft,Maintenance,Basse,15/07/2026 à 11h27,15/07/2026 à 11h34,7MIN,LOUBNA,"7,00",AEM SOFT,Maintenance,15/07/2026  11h27,15/07/2026   11h34,11,Samedi,,,,,,,,,,Loubna
+15/07/2026,P260702387,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h30,15/07/2026 à 14h35,0h5min,Sofiane Aoues,"5,00",SHOPPERTRAK,Maintenance,15/07/2026  14h30,15/07/2026   14h35,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702389,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h35,15/07/2026 à 14h40,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  14h35,15/07/2026   14h40,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702391,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h40,15/07/2026 à 14h45,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  14h40,15/07/2026   14h45,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702395,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h45,15/07/2026 à 14h50,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  14h45,15/07/2026   14h50,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702397,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h50,15/07/2026 à 14h55,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  14h50,15/07/2026   14h55,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702399,Shoppertrak,Maintenance,Basse,15/07/2026 à 14h55,15/07/2026 à 15h00,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  14h55,15/07/2026   15h00,14,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702400,Shoppertrak,Maintenance,Basse,15/07/2026 à 15h00,15/07/2026 à 15h05,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  15h00,15/07/2026   15h05,15,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702401,Shoppertrak,Maintenance,Basse,15/07/2026 à 15h05,15/07/2026 à 15h10,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  15h05,15/07/2026   15h10,15,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702402,Shoppertrak,Maintenance,Basse,15/07/2026 à 15h10,15/07/2026 à 15h15,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  15h10,15/07/2026   15h15,15,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,P260702404,Shoppertrak,Maintenance,Basse,15/07/2026 à 15h15,15/07/2026 à 15h15,0h3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,15/07/2026  15h15,15/07/2026   15h15,15,Samedi,,,,,,,,,,Sofiane Aoues
+15/07/2026,  P260702427,          ADOPT ,Maintenance,Basse,15/07/2026 à 16h14,15/07/2026 à 16h29,13min,LOUBNA,"13,00",ADOPT,Maintenance,15/07/2026  16h14,15/07/2026   16h29,16,Samedi,,,,,,,,,,Loubna
+16/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+16/07/2026,P260702468,But,Maintenance,Basse,16/07/2026 à 09h10,16/07/2026 à 09h15,0h5min,Sofiane Aoues,"5,00",BUT,Maintenance,16/07/2026  09h10,16/07/2026   09h15,9,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702475,Pos Service,Maintenance,Basse,16/07/2026 à 09h15,16/07/2026 à 09h21,0h6min,Sofiane Aoues,"6,00",POS SERVICE,Maintenance,16/07/2026  09h15,16/07/2026   09h21,9,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702556,Shoppertrak,Maintenance,Basse,16/07/2026 à 09h49,16/07/2026 à 09h54,5min,LOUBNA,"5,00",SHOPPERTRAK,Maintenance,16/07/2026  09h49,16/07/2026   09h54,9,Lundi,,,,,,,,,,Loubna
+16/07/2026,P260702557,Etam Siège,Ajout Matériel,Basse,16/07/2026 à 09h50,16/07/2026 à 09h55,0h5min,Sofiane Aoues,"5,00",ETAM,Ajout Matériel,16/07/2026  09h50,16/07/2026   09h55,9,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702631,Pos Service,Installation,Basse,16/07/2026 à 13h25,16/07/2026 à 13h30,0h5min,Sofiane Aoues,"5,00",POS SERVICE,Installation,16/07/2026  13h25,16/07/2026   13h30,13,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,260702658,Axe E-Sante,remplacement,Faible,16/07/2026 à 13h54,16/07/2026 à 14:10,16min,Loubna,"16,00",AXE E-SANTE,Remplacement Matériel,16/07/2026  13h54,16/07/2026 14:10:00,13,Lundi,,,,,,,,,,Loubna
+16/07/2026,P260702663,Shoppertrak,Maintenance,Basse,16/07/2026 à 14h25,16/07/2026 à 14h30,0h4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,16/07/2026  14h25,16/07/2026   14h30,14,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702677,Shoppertrak,Maintenance,Basse,16/07/2026 à 14h25,16/07/2026 à 14h30,0h4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,16/07/2026  14h25,16/07/2026   14h30,14,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702676,AMPLIFON,Maintenance,Basse,16/07/2026 à 14h33,16/07/2026 à 14h50,12MIN,Loubna,"12,00",AMPLIFON,Maintenance,16/07/2026  14h33,16/07/2026   14h50,14,Lundi,,,,,,,,,,Loubna
+16/07/2026,P260702686,ADOPT,Maintenance,Basse,16/07/2026 à 14/43,16/07/2026 à 15/06,15MIN,Loubna,"15,00",ADOPT,Maintenance,16/07/2026 14:43:00,16/07/2026   15/06,14,jeudi,,,,,,,,,,Loubna
+16/07/2026,P260702689,Amplifon,Expédition Avec Intégration,Basse,16/07/2026 à 15h15,16/07/2026 à 15h18,0h2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,16/07/2026  15h15,16/07/2026   15h18,15,Lundi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702695,Etam ,Fermeture définitive,Basse,16/07/2026 à 15:36,16/07/2026 à 15:49,9min,LOUBNA,"9,00",ETAM,Fermeture Définitive,16/07/2026 15:36:00,16/07/2026 15:49:00,15,jeudi,,,,,,,,,,Loubna
+16/07/2026,P260702699,Etam ,Intervention Site,Basse,16/07/2026 à 15:53,16/07/2026 à 15:59,6min,Sofiane Aoues,"6,00",ETAM,Intervention sur Site,16/07/2026 15:53:00,16/07/2026 15:59:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+16/07/2026,P260702706,Etam ,envoi ipad,Basse,16/07/2026 à 16:03,16/07/2026 à 16:12,9min,LOUBNA,"9,00",ETAM,Envoi Matériel,16/07/2026 16:03:00,16/07/2026 16:12:00,16,jeudi,,,,,,,,,,Loubna
+17/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+17/07/2026,P260702766,Aem Soft,Intervention J+1,Basse,17/07/2026 à 09:25,17/07/2026 à 09:30,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/07/2026 09:25:00,17/07/2026 09:30:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702791,etam,envoi smart,Basse,17/07/2026 à 10:18,17/07/2026 à 09:27,9min,LOUBNA,"9,00",ETAM,Envoi Matériel,17/07/2026 10:18:00,17/07/2026 09:27:00,10,vendredi,,,,,,,,,,Loubna
+17/07/2026,P260702803,Shoppertrak,Maintenance,Faible,17/07/2026 à 10:48,17/07/2026 à 10:54,6min,LOUBNA,"6,00",SHOPPERTRAK,Maintenance,17/07/2026 10:48:00,17/07/2026 10:54:00,10,vendredi,,,,,,,,,,Loubna
+17/07/2026,P260702848,Aem Soft,Intervention J+1,Basse,17/07/2026 à 13:20,17/07/2026 à 13:23,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/07/2026 13:20:00,17/07/2026 13:23:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702855,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:45,17/07/2026 à 13:48,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,17/07/2026 13:45:00,17/07/2026 13:48:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702856,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:50,17/07/2026 à 13:52,1min,Sofiane Aoues,"1,00",AMPLIFON,Envoi Matériel,17/07/2026 13:50:00,17/07/2026 13:52:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702857,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:53,17/07/2026 à 13:54,1min,Sofiane Aoues,"1,00",AMPLIFON,Envoi Matériel,17/07/2026 13:53:00,17/07/2026 13:54:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702859,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:55,17/07/2026 à 13:56,1min,Sofiane Aoues,"1,00",AMPLIFON,Envoi Matériel,17/07/2026 13:55:00,17/07/2026 13:56:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702860,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:57,17/07/2026 à 13:58,1min,Sofiane Aoues,"1,00",AMPLIFON,Envoi Matériel,17/07/2026 13:57:00,17/07/2026 13:58:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702862,Amplifon,Envoi Matériel,Basse,17/07/2026 à 13:59,17/07/2026 à 14:00,1min,Sofiane Aoues,"1,00",AMPLIFON,Envoi Matériel,17/07/2026 13:59:00,17/07/2026 14:00:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702865,Aem Soft,Intervention J+1,Basse,17/07/2026 à 14:05,17/07/2026 à 14:08,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/07/2026 14:05:00,17/07/2026 14:08:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702886,Etam,Swap Transporteur,Basse,17/07/2026 à 14:55,17/07/2026 à 14:58,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,17/07/2026 14:55:00,17/07/2026 14:58:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,°P260702904,Etam ,envoi ipad,Basse,16/07/2026 à 15:16,16/07/2026 à 15:22,6MIN,LOUBNA,"6,00",ETAM,Envoi Matériel,16/07/2026 15:16:00,16/07/2026 15:22:00,15,jeudi,,,,,,,,,,Loubna
+17/07/2026,P260702906,Shoppertrak,Maintenance,Basse,17/07/2026 à 15:52,17/07/2026 à 15:58,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,17/07/2026 15:52:00,17/07/2026 15:58:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+17/07/2026,P260702908,Etam,Swap Transporteur,Basse,17/07/2026 à 15:59,17/07/2026 à 16:02,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,17/07/2026 15:59:00,17/07/2026 16:02:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+20/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+20/07/2026,P260703059,But,Maintenance,Basse,20/07/2026 à 10:00,20/07/2026 à 10:03,3min,Sofiane Aoues,"3,00",BUT,Maintenance,20/07/2026 10:00:00,20/07/2026 10:03:00,10,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703064,Etam,Swap Transporteur,Basse,20/07/2026 à 10:05,20/07/2026 à 10:09,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,20/07/2026 10:05:00,20/07/2026 10:09:00,10,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703095,Shoppertrak,Maintenance,Basse,20/07/2026 à 10:55,20/07/2026 à 10:59,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,20/07/2026 10:55:00,20/07/2026 10:59:00,10,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703132,Etam,Swap Transporteur,Basse,20/07/2026 à 13:05,20/07/2026 à 13:09,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,20/07/2026 13:05:00,20/07/2026 13:09:00,13,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703141,Etam,Swap Transporteur,Basse,20/07/2026 à 13:10,20/07/2026 à 13:20,10min,Sofiane Aoues,"10,00",ETAM,Swap Transporteur,20/07/2026 13:10:00,20/07/2026 13:20:00,13,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703150,Shoppertrak,Maintenance,Basse,20/07/2026 à 13:25,20/07/2026 à 13:28,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,20/07/2026 13:25:00,20/07/2026 13:28:00,13,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703171,Pos Service,Maintenance,Basse,20/07/2026 à 14:00,20/07/2026 à 14:04,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,20/07/2026 14:00:00,20/07/2026 14:04:00,14,lundi,,,,,,,,,,Sofiane Aoues
+20/07/2026,P260703206,Etam,Swap Transporteur,Basse,20/07/2026 à 15:45,20/07/2026 à 15:48,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,20/07/2026 15:45:00,20/07/2026 15:48:00,15,lundi,,,,,,,,,,Sofiane Aoues
+21/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+21/07/2026,P260703304,But,Maintenance,Basse,21/07/2026 à 10:37,21/07/2026 à 10:40,3min,Sofiane Aoues,"3,00",BUT,Maintenance,21/07/2026 10:37:00,21/07/2026 10:40:00,10,mardi,,,,,,,,,,Sofiane Aoues
+21/07/2026,P260703374,But,Maintenance,Basse,21/07/2026 à 13:50,21/07/2026 à 13:53,3min,Sofiane Aoues,"3,00",BUT,Maintenance,21/07/2026 13:50:00,21/07/2026 13:53:00,13,mardi,,,,,,,,,,Sofiane Aoues
+21/07/2026,P260703380,Adopt,Installation,Basse,21/07/2026 à 14:10,21/07/2026 à 14:18,8min,Sofiane Aoues,"8,00",ADOPT,Installation,21/07/2026 14:10:00,21/07/2026 14:18:00,14,mardi,,,,,,,,,,Sofiane Aoues
+21/07/2026,P260703393,Etam,Swap Transporteur,Basse,21/07/2026 à 14:45,21/07/2026 à 14:48,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,21/07/2026 14:45:00,21/07/2026 14:48:00,14,mardi,,,,,,,,,,Sofiane Aoues
+22/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+22/07/2026,P260703474,Etam,Swap Transporteur,Basse,22/07/2026 à 09:30,22/07/2026 à 09:35,5min,Sofiane Aoues,"5,00",ETAM,Swap Transporteur,22/07/2026 09:30:00,22/07/2026 09:35:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703494,Aem Soft,Intervention J+1,Basse,22/07/2026 à 10:20,22/07/2026 à 10:24,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,22/07/2026 10:20:00,22/07/2026 10:24:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703509,Etam,Swap Transporteur,Basse,22/07/2026 à 10:35,22/07/2026 à 10:39,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,22/07/2026 10:35:00,22/07/2026 10:39:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703535,Axe E-santé,Remplacement,Basse,22/07/2026 à 11:50,22/07/2026 à 11:57,7min,Sofiane Aoues,"7,00",AXE E-SANTE,Remplacement Matériel,22/07/2026 11:50:00,22/07/2026 11:57:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703546,Etam,Maintenance TPE,Basse,22/07/2026 à 12:30,22/07/2026 à 12:34,4min,Sofiane Aoues,"4,00",ETAM,Maintenance,22/07/2026 12:30:00,22/07/2026 12:34:00,12,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703547,Etam,Maintenance TPE,Basse,22/07/2026 à 12:35,22/07/2026 à 12:37,2min,Sofiane Aoues,"2,00",ETAM,Maintenance,22/07/2026 12:35:00,22/07/2026 12:37:00,12,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703598,Amplifon,Envoi Matériel,Basse,22/07/2026 à 14:40,22/07/2026 à 14:42,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,22/07/2026 14:40:00,22/07/2026 14:42:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703601,Etam,Swap Transporteur,Basse,22/07/2026 à 14:50,22/07/2026 à 14:54,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,22/07/2026 14:50:00,22/07/2026 14:54:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703621,Axe E-santé,Remplacement,Basse,22/07/2026 à 16:00,22/07/2026 à 16:05,5min,Sofiane Aoues,"5,00",AXE E-SANTE,Remplacement Matériel,22/07/2026 16:00:00,22/07/2026 16:05:00,16,mercredi,,,,,,,,,,Sofiane Aoues
+22/07/2026,P260703622,Amplifon,Envoi Matériel,Basse,22/07/2026 à 16:15,22/07/2026 à 16:18,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,22/07/2026 16:15:00,22/07/2026 16:18:00,16,mercredi,,,,,,,,,,Sofiane Aoues
+23/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+23/07/2026,P260703674,Adopt,Installation,Basse,23/07/2026 à 09:00,23/07/2026 à 09:06,6min,Sofiane Aoues,"6,00",ADOPT,Installation,23/07/2026 09:00:00,23/07/2026 09:06:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703680,Etam,Swap Transporteur,Basse,23/07/2026 à 09:10,23/07/2026 à 09:13,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,23/07/2026 09:10:00,23/07/2026 09:13:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703682,But,Maintenance,Basse,23/07/2026 à 09:17,23/07/2026 à 09:20,3min,Sofiane Aoues,"3,00",BUT,Maintenance,23/07/2026 09:17:00,23/07/2026 09:20:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703700,Innovorder,Envoi J+1,Basse,23/07/2026 à 09:50,23/07/2026 à 09:55,5min,Sofiane Aoues,"5,00",INNOVORDER,Envoi Matériel,23/07/2026 09:50:00,23/07/2026 09:55:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703702,Amplifon,Envoi Matériel,Basse,23/07/2026 à 10:00,23/07/2026 à 10:02,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,23/07/2026 10:00:00,23/07/2026 10:02:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703714,Etam,Swap Transporteur,Basse,23/07/2026 à 10:37,23/07/2026 à 10:40,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,23/07/2026 10:37:00,23/07/2026 10:40:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703716,Shoppertrak,Maintenance,Basse,23/07/2026 à 10:43,23/07/2026 à 10:46,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,23/07/2026 10:43:00,23/07/2026 10:46:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703720,Shoppertrak,Maintenance,Basse,23/07/2026 à 10:48,23/07/2026 à 10:50,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,23/07/2026 10:48:00,23/07/2026 10:50:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703746,Etam,Swap Transporteur,Basse,23/07/2026 à 12:27,23/07/2026 à 12:30,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,23/07/2026 12:27:00,23/07/2026 12:30:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703776,Etam,Swap Transporteur,Basse,23/07/2026 à 14:05,23/07/2026 à 14:10,5min,Sofiane Aoues,"5,00",ETAM,Swap Transporteur,23/07/2026 14:05:00,23/07/2026 14:10:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703780,Amplifon,Envoi Matériel,Basse,23/07/2026 à 14:14,23/07/2026 à 14:18,4min,Sofiane Aoues,"4,00",AMPLIFON,Envoi Matériel,23/07/2026 14:14:00,23/07/2026 14:18:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+23/07/2026,P260703795,Etam,Swap Transporteur,Basse,23/07/2026 à 15:08,23/07/2026 à 15:11,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,23/07/2026 15:08:00,23/07/2026 15:11:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+24/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+24/07/2026,P260703882,Shoppertrak,Maintenance,Basse,24/07/2026 à 08:53,24/07/2026 à 08:56,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,24/07/2026 08:53:00,24/07/2026 08:56:00,8,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703891,But,Maintenance,Basse,24/07/2026 à 09:18,24/07/2026 à 09:21,3min,Sofiane Aoues,"3,00",BUT,Maintenance,24/07/2026 09:18:00,24/07/2026 09:21:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703892,Etam,Swap Transporteur,Basse,24/07/2026 à 09:32,24/07/2026 à 09:35,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,24/07/2026 09:32:00,24/07/2026 09:35:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703895,But,Maintenance,Basse,24/07/2026 à 09:37,24/07/2026 à 09:40,3min,Sofiane Aoues,"3,00",BUT,Maintenance,24/07/2026 09:37:00,24/07/2026 09:40:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703902,Etam,Envoi Matériel,Basse,24/07/2026 à 09:46,24/07/2026 à 09:50,4min,Sofiane Aoues,"4,00",ETAM,Envoi Matériel,24/07/2026 09:46:00,24/07/2026 09:50:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703913,Pos Service,Maintenance,Basse,24/07/2026 à 10:16,24/07/2026 à 10:20,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,24/07/2026 10:16:00,24/07/2026 10:20:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703934,Etam,Fermeture Definitive,Basse,24/07/2026 à 11:10,24/07/2026 à 11:17,7min,Sofiane Aoues,"7,00",ETAM,Fermeture Définitive,24/07/2026 11:10:00,24/07/2026 11:17:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703940,Aem Soft,Intervention J+1,Basse,24/07/2026 à 11:36,24/07/2026 à 11:40,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,24/07/2026 11:36:00,24/07/2026 11:40:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703943,Etam,Intervention Site,Basse,24/07/2026 à 11:40,24/07/2026 à 11:44,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,24/07/2026 11:40:00,24/07/2026 11:44:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703953,Pos Service,Installation,Basse,24/07/2026 à 12:08,24/07/2026 à 12:14,6min,Sofiane Aoues,"6,00",POS SERVICE,Installation,24/07/2026 12:08:00,24/07/2026 12:14:00,12,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703980,Etam,Fermeture Provisoire,Basse,24/07/2026 à 13:35,24/07/2026 à 13:40,5min,Sofiane Aoues,"5,00",ETAM,Fermeture Provisoire,24/07/2026 13:35:00,24/07/2026 13:40:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703986,Shoppertrak,Maintenance,Basse,24/07/2026 à 13:46,24/07/2026 à 13:50,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,24/07/2026 13:46:00,24/07/2026 13:50:00,13,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260703994,Pos Service,Installation,Basse,24/07/2026 à 14:20,24/07/2026 à 14:24,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,24/07/2026 14:20:00,24/07/2026 14:24:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+24/07/2026,P260704011,But,Maintenance,Basse,24/07/2026 à 16:25,24/07/2026 à 16:28,3min,Sofiane Aoues,"3,00",BUT,Maintenance,24/07/2026 16:25:00,24/07/2026 16:28:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+27/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+27/07/2026,P260704164,Etam,Swap Transporteur,Basse,27/07/2026 à 10:00,27/07/2026 à 10:03,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,27/07/2026 10:00:00,27/07/2026 10:03:00,10,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704197,Shoppertrak,Maintenance,Basse,27/07/2026 à 11:40,27/07/2026 à 11:42,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,27/07/2026 11:40:00,27/07/2026 11:42:00,11,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704213,Etam,Swap Transporteur,Basse,27/07/2026 à 12:30,27/07/2026 à 12:33,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,27/07/2026 12:30:00,27/07/2026 12:33:00,12,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704252,But,Remplacement Onduleur,Basse,27/07/2026 à 14:00,27/07/2026 à 14:05,5min,Sofiane Aoues,"5,00",BUT,Remplacement Matériel,27/07/2026 14:00:00,27/07/2026 14:05:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704255,Aem Soft,Intervention J+1,Basse,27/07/2026 à 14:07,27/07/2026 à 14:10,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,27/07/2026 14:07:00,27/07/2026 14:10:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704256,Amplifon,Commande PC,Basse,27/07/2026 à 14:14,27/07/2026 à 14:17,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,27/07/2026 14:14:00,27/07/2026 14:17:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704258 ,Amplifon,Commande PC,Basse,27/07/2026 à 14:20,27/07/2026 à 14:22,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,27/07/2026 14:20:00,27/07/2026 14:22:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704261,Amplifon,Commande PC,Basse,27/07/2026 à 14:25,27/07/2026 à 14:27,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,27/07/2026 14:25:00,27/07/2026 14:27:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704264,Amplifon,Commande PC,Basse,27/07/2026 à 14:30,27/07/2026 à 14:32,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,27/07/2026 14:30:00,27/07/2026 14:32:00,14,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704279,But,Maintenance,Basse,27/07/2026 à 15:17,27/07/2026 à 15:20,3min,Sofiane Aoues,"3,00",BUT,Maintenance,27/07/2026 15:17:00,27/07/2026 15:20:00,15,lundi,,,,,,,,,,Sofiane Aoues
+27/07/2026,P260704282,Etam,Swap Transporteur,Basse,27/07/2026 à 15:27,27/07/2026 à 15:30,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,27/07/2026 15:27:00,27/07/2026 15:30:00,15,lundi,,,,,,,,,,Sofiane Aoues
+28/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+28/07/2026,P260704340,But,Maintenance,Basse,28/07/2026 à 9:32,28/07/2026 à 09:35,3min,Sofiane Aoues,"3,00",BUT,Maintenance,28/07/2026 09:32:00,28/07/2026 09:35:00,9,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704344,But,Maintenace ,Basse,28/07/2026 à 09:36,28/07/2026 à 09:35,2min,Sofiane Aoues,"2,00",BUT,Maintenance,28/07/2026 09:36:00,28/07/2026 09:35:00,9,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704366,But,Maintenace ,Basse,28/07/2026 à 10:39,28/07/2026 à 10:41,2min,Sofiane Aoues,"2,00",BUT,Maintenance,28/07/2026 10:39:00,28/07/2026 10:41:00,10,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704369,But,Maintenace ,Basse,28/07/2026 à 10:43,28/07/2026 à 10:45,2min,Sofiane Aoues,"2,00",BUT,Maintenance,28/07/2026 10:43:00,28/07/2026 10:45:00,10,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704380,Etam,Intervention Site,Moyen,28/07/2026 à 11:05,28/07/2026 à 11:12,7min,Sofiane Aoues,"7,00",ETAM,Intervention sur Site,28/07/2026 11:05:00,28/07/2026 11:12:00,11,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704385,Aem Soft,Intervention J+1,Basse,28/07/2026 à 11:30,28/07/2026 à 11:33,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,28/07/2026 11:30:00,28/07/2026 11:33:00,11,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704399,Amplifon,Intervention site,Basse,28/07/2026 à 12:07,28/07/2026 à 12:10,3min,Sofiane Aoues,"3,00",AMPLIFON,Intervention sur Site,28/07/2026 12:07:00,28/07/2026 12:10:00,12,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704445,Etam,Ajout Matériel,Basse,28/07/2026 à 14:16,28/07/2026 à 14:19,3min,Sofiane Aoues,"3,00",ETAM,Ajout Matériel,28/07/2026 14:16:00,28/07/2026 14:19:00,14,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704448,Etam,Swap Transporteur,Basse,28/07/2026 à 14:20,28/07/2026 à 14:22,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,28/07/2026 14:20:00,28/07/2026 14:22:00,14,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704451,Etam,Swap Transporteur,Basse,28/07/2026 à 14:26,28/07/2026 à 14:28,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,28/07/2026 14:26:00,28/07/2026 14:28:00,14,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704458,But,Maintenance,Basse,28/07/2026 à 14:35,28/07/2026 à 14:37,2min,Sofiane Aoues,"2,00",BUT,Maintenance,28/07/2026 14:35:00,28/07/2026 14:37:00,14,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704468,But,Maintenance,Basse,28/07/2026 à 15:04,28/07/2026 à 15:06,2min,Sofiane Aoues,"2,00",BUT,Maintenance,28/07/2026 15:04:00,28/07/2026 15:06:00,15,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704473,But,Remplacement Onduleur,Basse,28/07/2026 à 15:12,28/07/2026 à 15:16,4min,Sofiane Aoues,"4,00",BUT,Remplacement Matériel,28/07/2026 15:12:00,28/07/2026 15:16:00,15,mardi,,,,,,,,,,Sofiane Aoues
+28/07/2026,P260704481,Adopt,Installation,Basse,28/07/2026 à 15:35,28/07/2026 à 15:40,5min,Sofiane Aoues,"5,00",ADOPT,Installation,28/07/2026 15:35:00,28/07/2026 15:40:00,15,mardi,,,,,,,,,,Sofiane Aoues
+29/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+29/07/2026,P260704535,Barron MCann,Maintenance,Basse,29/07/2026 à 09:10,29/07/2026 à 09:19,9min,Sofiane Aoues,"9,00",BARRON MCCANN,Maintenance,29/07/2026 09:10:00,29/07/2026 09:19:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704539,Pos Service,Maintenance,Basse,29/07/2026 à 09:25,29/07/2026 à 09:29,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,29/07/2026 09:25:00,29/07/2026 09:29:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704559,Amplifon,Invervention Site,Basse,29/07/2026 à 10:07,29/07/2026 à 10:12,5min,Sofiane Aoues,"5,00",AMPLIFON,Intervention sur Site,29/07/2026 10:07:00,29/07/2026 10:12:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704560,Adopt,Maintenance,Basse,29/07/2026 à 10:14,29/07/2026 à 10:18,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,29/07/2026 10:14:00,29/07/2026 10:18:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704561,Etam,Swap Transporteur,Basse,29/07/2026 à 10:21,29/07/2026 à 10:24,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,29/07/2026 10:21:00,29/07/2026 10:24:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704569,Aem Soft,Intervention J+1,Basse,29/07/2026 à 10:35,29/07/2026 à 10:38,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,29/07/2026 10:35:00,29/07/2026 10:38:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704591,Pos Service,Installation,Basse,29/07/2026 à 11:31,29/07/2026 à 11:35,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,29/07/2026 11:31:00,29/07/2026 11:35:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704603,Etam,Swap Transporteur,Basse,29/07/2026 à 12:35,29/07/2026 à 12:38,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,29/07/2026 12:35:00,29/07/2026 12:38:00,12,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704586,Centric Action,Floorwalker,Basse,29/07/2026 à 14:00,29/07/2026 à 14:09,9min,Sofiane Aoues,"9,00",CENTRIC ACTION,Floorwalker,29/07/2026 14:00:00,29/07/2026 14:09:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704587,Centric Action,Installation,Basse,29/07/2026 à 14:09,29/07/2026 à 14:14,5min,Sofiane Aoues,"5,00",CENTRIC ACTION,Installation,29/07/2026 14:09:00,29/07/2026 14:14:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704592,Centric Action,Handover,Basse,29/07/2026 à 14:15,29/07/2026 à 14:18,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,29/07/2026 14:15:00,29/07/2026 14:18:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704595,Centric Action,Openings,Basse,29/07/2026 à 14:18,29/07/2026 à 14:21,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,29/07/2026 14:18:00,29/07/2026 14:21:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704629,Adopt,Installation,Basse,29/07/2026 à 14:22,29/07/2026 à 14:25,3min,Sofiane Aoues,"3,00",ADOPT,Installation,29/07/2026 14:22:00,29/07/2026 14:25:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704636,Centric Action,Floorwalker,Basse,29/07/2026 à 14:30,29/07/2026 à 14:37,7min,Sofiane Aoues,"7,00",CENTRIC ACTION,Floorwalker,29/07/2026 14:30:00,29/07/2026 14:37:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704638,Centric Action,Installation,Basse,29/07/2026 à 14:40,29/07/2026 à 14:43,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,29/07/2026 14:40:00,29/07/2026 14:43:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704640,Centric Action,Handover,Basse,29/07/2026 à 14:45,29/07/2026 à 14:48,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,29/07/2026 14:45:00,29/07/2026 14:48:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704642,Centric Action,Openings,Basse,29/07/2026 à 14:50,29/07/2026 à 14:53,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,29/07/2026 14:50:00,29/07/2026 14:53:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704648,Pos Service,Maintenance,Basse,29/07/2026 à 14:55,29/07/2026 à 14:59,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,29/07/2026 14:55:00,29/07/2026 14:59:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704656,Centric Action,Floorwalker,Basse,29/07/2026 à 15:00,29/07/2026 à 15:05,5min,Sofiane Aoues,"5,00",CENTRIC ACTION,Floorwalker,29/07/2026 15:00:00,29/07/2026 15:05:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704659,Centric Action,Installation,Basse,29/07/2026 à 15:06,29/07/2026 à 15:09,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,29/07/2026 15:06:00,29/07/2026 15:09:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704661,Centric Action,Handover,Basse,29/07/2026 à 15:10,29/07/2026 à 15:13,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,29/07/2026 15:10:00,29/07/2026 15:13:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704664,Centric Action,Openings,Basse,29/07/2026 à 15:14,29/07/2026 à 15:17,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,29/07/2026 15:14:00,29/07/2026 15:17:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704665,Pos Service,Installation,Basse,29/07/2026 à 15:20,29/07/2026 à 15:26,6min,Sofiane Aoues,"6,00",POS SERVICE,Installation,29/07/2026 15:20:00,29/07/2026 15:26:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704667,Etam,Envoi Simple,Basse,29/07/2026 à 15:30,29/07/2026 à 15:33,3min,Sofiane Aoues,"3,00",ETAM,Envoi Matériel,29/07/2026 15:30:00,29/07/2026 15:33:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704671,Etam,Envoi Simple,Basse,29/07/2026 à 15:35,29/07/2026 à 15:38,3min,Sofiane Aoues,"3,00",ETAM,Envoi Matériel,29/07/2026 15:35:00,29/07/2026 15:38:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704674,Etam,Envoi Simple,Basse,29/07/2026 à 15:40,29/07/2026 à 15:43,3min,Sofiane Aoues,"3,00",ETAM,Envoi Matériel,29/07/2026 15:40:00,29/07/2026 15:43:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+29/07/2026,P260704675,Amplifon,Envoi Ecran,Basse,29/07/2026 à 15:45,29/07/2026 à 15:47,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,29/07/2026 15:45:00,29/07/2026 15:47:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+30/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+30/07/2026,P260704731,Pos Service,Maintenance,Basse,30/07/2026 à 09:00,30/07/2026 à 09:06,6min,Sofiane Aoues,"6,00",POS SERVICE,Maintenance,30/07/2026 09:00:00,30/07/2026 09:06:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704736,Centric Action,Floorwalker,Basse,30/07/2026 à 09:25,30/07/2026 à 09:31,6min,Sofiane Aoues,"6,00",CENTRIC ACTION,Floorwalker,30/07/2026 09:25:00,30/07/2026 09:31:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704738,Centric Action,Installation,Basse,30/07/2026 à 09:32,30/07/2026 à 09:35,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,30/07/2026 09:32:00,30/07/2026 09:35:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704740,Centric Action,Handover,Basse,30/07/2026 à 09:37,30/07/2026 à 09:40,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,30/07/2026 09:37:00,30/07/2026 09:40:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704744,Centric Action,Openings,Basse,30/07/2026 à 09:42,30/07/2026 à 09:45,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,30/07/2026 09:42:00,30/07/2026 09:45:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704758,Centric Action,Floorwalker,Basse,30/07/2026 à 10:04,30/07/2026 à 10:07,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,30/07/2026 10:04:00,30/07/2026 10:07:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704760,Centric Action,Installation,Basse,30/07/2026 à 10:08,30/07/2026 à 10:11,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,30/07/2026 10:08:00,30/07/2026 10:11:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704761 ,Centric Action,Handover,Basse,30/07/2026 à 10:12,30/07/2026 à 10:15,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,30/07/2026 10:12:00,30/07/2026 10:15:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704765,Centric Action,Openings,Basse,30/07/2026 à 10:16,30/07/2026 à 10:19,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,30/07/2026 10:16:00,30/07/2026 10:19:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704775,Pos Service,Maintenance,Basse,30/07/2026 à 10:20,30/07/2026 à 10:25,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,30/07/2026 10:20:00,30/07/2026 10:25:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704776,Pos Service,Installation,Basse,30/07/2026 à 10:30,30/07/2026 à 10:35,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,30/07/2026 10:30:00,30/07/2026 10:35:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704796,Centric Action,Floorwalker,Basse,30/07/2026 à 11:30,30/07/2026 à 11:34,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Floorwalker,30/07/2026 11:30:00,30/07/2026 11:34:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704798,Centric Action,Installation,Basse,30/07/2026 à 11:35,30/07/2026 à 11:38,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,30/07/2026 11:35:00,30/07/2026 11:38:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704801,Centric Action,Handover,Basse,30/07/2026 à 11:41,30/07/2026 à 11:45,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,30/07/2026 11:41:00,30/07/2026 11:45:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704802,Centric Action,Openings,Basse,30/07/2026 à 11:48,30/07/2026 à 11:51,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,30/07/2026 11:48:00,30/07/2026 11:51:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704803,Etam,Swap Transporteur,Basse,30/07/2026 à 11:55,30/07/2026 à 11:59,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,30/07/2026 11:55:00,30/07/2026 11:59:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704806,Pos Service,Installation,Basse,30/07/2026 à 12:05,30/07/2026 à 12:09,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,30/07/2026 12:05:00,30/07/2026 12:09:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704840,Etam,Swap Transporteur,Basse,30/07/2026 à 14:04,30/07/2026 à 14:07,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,30/07/2026 14:04:00,30/07/2026 14:07:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704842,Centric Action,Floorwalker,Basse,30/07/2026 à 14:12,30/07/2026 à 14:16,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Floorwalker,30/07/2026 14:12:00,30/07/2026 14:16:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704845,Centric Action,Installation,Basse,30/07/2026 à 14:17,30/07/2026 à 14:20,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,30/07/2026 14:17:00,30/07/2026 14:20:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704846,Centric Action,Handover,Basse,30/07/2026 à 14:21,30/07/2026 à 14:24,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,30/07/2026 14:21:00,30/07/2026 14:24:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704847,Centric Action,Openings,Basse,30/07/2026 à 14:25,30/07/2026 à 14:28,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,30/07/2026 14:25:00,30/07/2026 14:28:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704852,Amplifon ,Intervention Site,Basse,30/07/2026 à 14:33,30/07/2026 à 14:36,3min,Sofiane Aoues,"3,00",AMPLIFON,Intervention sur Site,30/07/2026 14:33:00,30/07/2026 14:36:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704854,Etam,Swap Transporteur,Basse,30/07/2026 à 14:37,30/07/2026 à 14:41,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,30/07/2026 14:37:00,30/07/2026 14:41:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704856,But,Maintenance,Basse,30/07/2026 à 14:45,30/07/2026 à 14:48,3min,Sofiane Aoues,"3,00",BUT,Maintenance,30/07/2026 14:45:00,30/07/2026 14:48:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704869,Axe E-Santé,Remplacement,Basse,30/07/2026 à 15:25,30/07/2026 à 15:31,6min,Sofiane Aoues,"6,00",AXE E-SANTE,Remplacement Matériel,30/07/2026 15:25:00,30/07/2026 15:31:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704873,Centric Action,Floorwalker,Basse,30/07/2026 à 15:36,30/07/2026 à 15:43,7min,Sofiane Aoues,"7,00",CENTRIC ACTION,Floorwalker,30/07/2026 15:36:00,30/07/2026 15:43:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704875,Centric Action,Installation,Basse,30/07/2026 à 15:45,30/07/2026 à 15:49,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation,30/07/2026 15:45:00,30/07/2026 15:49:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704882,Centric Action,Handover,Basse,30/07/2026 à 15:50,30/07/2026 à 15:53,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,30/07/2026 15:50:00,30/07/2026 15:53:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704884,Centric Action,Openings,Basse,30/07/2026 à 15:54,30/07/2026 à 15:57,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,30/07/2026 15:54:00,30/07/2026 15:57:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+30/07/2026,P260704888,Etam,Maintenance TPE,Basse,30/07/2026 à 16:14,30/07/2026 à 16:17,4min,Sofiane Aoues,"4,00",ETAM,Maintenance,30/07/2026 16:14:00,30/07/2026 16:17:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+31/07/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+31/07/2026,P260704937,Etam,Ajout Matériel,Basse,31/07/2026 à 9:13,31/07/2026 à 9:17,4min,Sofiane Aoues,"4,00",ETAM,Ajout Matériel,31/07/2026 09:13:00,31/07/2026 09:17:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704942,But ,Maintenance,Basse,31/07/2026 à 9:20,31/07/2026 à 9:23,3min,Sofiane Aoues,"3,00",BUT,Maintenance,31/07/2026 09:20:00,31/07/2026 09:23:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704957,Aem Soft,Intervention J+1,Basse,31/07/2026 à 10:00,31/07/2026 à 10:03,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,31/07/2026 10:00:00,31/07/2026 10:03:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704963,Aem Soft,Intervention J+1,Basse,31/07/2026 à 10:07,31/07/2026 à 10:10,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,31/07/2026 10:07:00,31/07/2026 10:10:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704970,Adopt,Maintenance,Basse,31/07/2026 à 10:22,31/07/2026 à 10:26,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,31/07/2026 10:22:00,31/07/2026 10:26:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704972,Aem Soft,Intervention J+1,Basse,31/07/2026 à 10:27,31/07/2026 à 10:30,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,31/07/2026 10:27:00,31/07/2026 10:30:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704977,Centric Action,Floorwalker,Basse,31/07/2026 à 10:32,31/07/2026 à 10:36,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,31/07/2026 10:32:00,31/07/2026 10:36:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704981,Centric Action,Installation,Basse,31/07/2026 à 10:37,31/07/2026 à 10:40,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation,31/07/2026 10:37:00,31/07/2026 10:40:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704983,Centric Action,Handover,Basse,31/07/2026 à 10:42,31/07/2026 à 10:45,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,31/07/2026 10:42:00,31/07/2026 10:45:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260704985,Centric Action,Openings,Basse,31/07/2026 à 10:46,31/07/2026 à 10:49,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,31/07/2026 10:46:00,31/07/2026 10:49:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705007,Pos Service,Maintenance,Basse,31/07/2026 à 12:30,31/07/2026 à 12:35,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,31/07/2026 12:30:00,31/07/2026 12:35:00,12,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705035,Etam,Swap Transporteur ,Basse,31/07/2026 à 14:04,31/07/2026 à 14:09,5min,Sofiane Aoues,"5,00",ETAM,Swap Transporteur,31/07/2026 14:04:00,31/07/2026 14:09:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705039,Etam,Swap Transporteur ,Basse,31/07/2026 à 14:12,31/07/2026 à 14:16,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,31/07/2026 14:12:00,31/07/2026 14:16:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705052,Amplifon,Envoi Ecran Dell,Basse,31/07/2026 à 14:44,31/07/2026 à 14:48,4min,Sofiane Aoues,"4,00",AMPLIFON,Envoi Matériel,31/07/2026 14:44:00,31/07/2026 14:48:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705072,Etam,Swap Transporteur ,Basse,31/07/2026 à 15:54,31/07/2026 à 15:57,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,31/07/2026 15:54:00,31/07/2026 15:57:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+31/07/2026,P260705073,Etam,Swap Transporteur ,Basse,31/07/2026 à 15:57,31/07/2026 à 16:00,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,31/07/2026 15:57:00,31/07/2026 16:00:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+03/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+03/08/2026,P260800098,Etam,Swap Transporteur ,Basse,03/08/2026 à 09:11,03/08/2026 à 09:15,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,03/08/2026 09:11:00,03/08/2026 09:15:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800104,Etam,Swap Transporteur ,Basse,03/08/2026 à 09:17,03/08/2026 à 09:20,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,03/08/2026 09:17:00,03/08/2026 09:20:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800107,Etam,Swap Transporteur ,Basse,03/08/2026 à 09:23,03/08/2026 à 09:25,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,03/08/2026 09:23:00,03/08/2026 09:25:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800111,Etam,Swap Transporteur ,Basse,03/08/2026 à 09:28,03/08/2026 à 09:30,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,03/08/2026 09:28:00,03/08/2026 09:30:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800116,Innovorder,Envoi Matériel,Basse,03/08/2026 à 09:37,03/08/2026 à 09:41,4min,Sofiane Aoues,"4,00",INNOVORDER,Envoi Matériel,03/08/2026 09:37:00,03/08/2026 09:41:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800134,Aem Soft,Intervention J+1,Basse,03/08/2026 à 09:56,03/08/2026 à 10:00,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,03/08/2026 09:56:00,03/08/2026 10:00:00,9,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800141,Aem Soft,Intervention J+1,Basse,03/08/2026 à 10:06,03/08/2026 à 10:10,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,03/08/2026 10:06:00,03/08/2026 10:10:00,10,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800145,Aem Soft,Intervention J+1,Basse,03/08/2026 à 10:12,03/08/2026 à 10:16,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,03/08/2026 10:12:00,03/08/2026 10:16:00,10,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800152,Shoppertrak,Installation,Basse,03/08/2026 à 10:26,03/08/2026 à 10:32,6min,Sofiane Aoues,"6,00",SHOPPERTRAK,Installation,03/08/2026 10:26:00,03/08/2026 10:32:00,10,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800174,Centric Action,Floorwalker,Basse,03/08/2026 à 11:11,03/08/2026 à 11:14,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,03/08/2026 11:11:00,03/08/2026 11:14:00,11,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800177,Centric Action,Installation,Basse,03/08/2026 à 11:16,03/08/2026 à 11:20,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation,03/08/2026 11:16:00,03/08/2026 11:20:00,11,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800180,Centric Action,Handover,Basse,03/08/2026 à 11:22,03/08/2026 à 11:25,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,03/08/2026 11:22:00,03/08/2026 11:25:00,11,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800181,Centric Action,Openings,Basse,03/08/2026 à 11:27,31/07/2026 à 11:30,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,03/08/2026 11:27:00,31/07/2026 11:30:00,11,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800562,Shoppertrak,Installation,Basse,03/08/2026 à 14:02,03/08/2026 à 14:06,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Installation,03/08/2026 14:02:00,03/08/2026 14:06:00,14,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800564,Aem Soft,Intervention J+1,Basse,03/08/2026 à 14:08,03/08/2026 à 14:11,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,03/08/2026 14:08:00,03/08/2026 14:11:00,14,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800565,Shoppertrak,Maintenance,Basse,03/08/2026 à 14:12,03/08/2026 à 14:15,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,03/08/2026 14:12:00,03/08/2026 14:15:00,14,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800584,Etam,Intervention Site,Basse,03/08/2026 à 14:50,03/08/2026 à 14:54,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,03/08/2026 14:50:00,03/08/2026 14:54:00,14,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800597,Pos Service,Maintenance,Basse,03/08/2026 à 15:27,03/08/2026 à 15:32,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,03/08/2026 15:27:00,03/08/2026 15:32:00,15,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800600,Pos Service,Maintenance,Basse,03/08/2026 à 15:34,03/08/2026 à 15:38,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,03/08/2026 15:34:00,03/08/2026 15:38:00,15,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800604,Promethean,Maintenance,Basse,03/08/2026 à 15:48,03/08/2026 à 15:56,8min,Sofiane Aoues,"8,00",PROMETHEAN,Maintenance,03/08/2026 15:48:00,03/08/2026 15:56:00,15,lundi,,,,,,,,,,Sofiane Aoues
+03/08/2026,P260800608,Shoppertrak,Maintenance,Basse,03/08/2026 à 16:10,03/08/2026 à 16:13,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,03/08/2026 16:10:00,03/08/2026 16:13:00,16,lundi,,,,,,,,,,Sofiane Aoues
+04/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+04/08/2026,P260800661,Etam,Swap Transporteur,Basse,04/08/2026 à 09:07,04/08/2026 à 09:10,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,04/08/2026 09:07:00,04/08/2026 09:10:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800665,Amplifon,Expédition sans intégration,Basse,04/08/2026 à 09:17,04/08/2026 à 09:20,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,04/08/2026 09:17:00,04/08/2026 09:20:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800672,Etam,Swap Transporteur,Basse,04/08/2026 à 09:40,04/08/2026 à 09:42,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,04/08/2026 09:40:00,04/08/2026 09:42:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800676,Etam,Swap Transporteur,Basse,04/08/2026 à 09:47,04/08/2026 à 09:50,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,04/08/2026 09:47:00,04/08/2026 09:50:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800678,Etam,Swap Transporteur,Basse,04/08/2026 à 09:52,04/08/2026 à 09:54,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,04/08/2026 09:52:00,04/08/2026 09:54:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800682,Etam,Swap Transporteur,Basse,04/08/2026 à 09:52,04/08/2026 à 09:54,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,04/08/2026 09:52:00,04/08/2026 09:54:00,9,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800698,Centric Action,New store - Installation (to be finalized),Basse,04/08/2026 à 10:14,04/08/2026 à 10:20,6min,Sofiane Aoues,"6,00",CENTRIC ACTION,Installation New Store,04/08/2026 10:14:00,04/08/2026 10:20:00,10,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800702,Centric Action,Old Store - Dismantling,Basse,04/08/2026 à 10:21,04/08/2026 à 10:25,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Dismantling Old Store,04/08/2026 10:21:00,04/08/2026 10:25:00,10,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800704,Centric Action,New Store- Finalize Installation,Basse,04/08/2026 à 10:27,04/08/2026 à 10:30,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation New Store,04/08/2026 10:27:00,04/08/2026 10:30:00,10,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800708,Centric Action,New Store - Opening Assistance,Basse,04/08/2026 à 10:33,04/08/2026 à 10:35,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,04/08/2026 10:33:00,04/08/2026 10:35:00,10,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800714,Etam,Swap Transporteur,Basse,04/08/2026 à 10:42,04/08/2026 à 10:45,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,04/08/2026 10:42:00,04/08/2026 10:45:00,10,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800726,Etam,Swap Transporteur,Basse,04/08/2026 à 11:00,04/08/2026 à 11:05,5min,Sofiane Aoues,"5,00",ETAM,Swap Transporteur,04/08/2026 11:00:00,04/08/2026 11:05:00,11,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800733,Etam,Swap Transporteur,Basse,04/08/2026 à 11:34,04/08/2026 à 11:37,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,04/08/2026 11:34:00,04/08/2026 11:37:00,11,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800798,Etam,Swap Transporteur,Basse,04/08/2026 à 14:08,04/08/2026 à 14:12,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,04/08/2026 14:08:00,04/08/2026 14:12:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800806,Aem Soft,Intervention J+1,Basse,04/08/2026 à 14:16,04/08/2026 à 14:18,2min,Sofiane Aoues,"2,00",AEM SOFT,Intervention J+1,04/08/2026 14:16:00,04/08/2026 14:18:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800807,Shoppertrak,Maintenance,Basse,04/08/2026 à 14:20,04/08/2026 à 14:23,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,04/08/2026 14:20:00,04/08/2026 14:23:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800810,Etam,Swap Transporteur,Basse,04/08/2026 à 14:25,04/08/2026 à 14:28,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,04/08/2026 14:25:00,04/08/2026 14:28:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800812,Shoppertrak,Maintenance,Basse,04/08/2026 à 14:33,04/08/2026 à 14:35,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,04/08/2026 14:33:00,04/08/2026 14:35:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800827,But,Maintenance,Basse,04/08/2026 à 14:49,04/08/2026 à 14:52,3min,Sofiane Aoues,"3,00",BUT,Maintenance,04/08/2026 14:49:00,04/08/2026 14:52:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800831,Adopt,Maintenance,Basse,04/08/2026 à 14:54,04/08/2026 à 14:58,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,04/08/2026 14:54:00,04/08/2026 14:58:00,14,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800840,Amplifon,Intervention sur Site,Basse,04/08/2026 à 15:02,04/08/2026 à 15:07,5min,Sofiane Aoues,"5,00",AMPLIFON,Intervention sur Site,04/08/2026 15:02:00,04/08/2026 15:07:00,15,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800841,Shoppertrak,Maintenance,Basse,04/08/2026 à 15:11,04/08/2026 à 15:14,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,04/08/2026 15:11:00,04/08/2026 15:14:00,15,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800843,But,Maintenance,Basse,04/08/2026 à 15:16,04/08/2026 à 15:18,2min,Sofiane Aoues,"2,00",BUT,Maintenance,04/08/2026 15:16:00,04/08/2026 15:18:00,15,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800850,Innovorder,Maintenance,Basse,04/08/2026 à 15:26,04/08/2026 à 15:31,5min,Sofiane Aoues,"5,00",INNOVORDER,Maintenance,04/08/2026 15:26:00,04/08/2026 15:31:00,15,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800852,Shoppertrak,Maintenance,Basse,04/08/2026 à 15:33,04/08/2026 à 15:35,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,04/08/2026 15:33:00,04/08/2026 15:35:00,15,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800868,Shoppertrak,Maintenance,Basse,04/08/2026 à 16:30,04/08/2026 à 16:32,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,04/08/2026 16:30:00,04/08/2026 16:32:00,16,mardi,,,,,,,,,,Sofiane Aoues
+04/08/2026,P260800870,Etam,Maintenance TPE,Basse,04/08/2026 à 16:35,04/08/2026 à 16:39,4min,Sofiane Aoues,"4,00",ETAM,Maintenance,04/08/2026 16:35:00,04/08/2026 16:39:00,16,mardi,,,,,,,,,,Sofiane Aoues
+05/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+05/08/2026,P260800908,Shoppertrak,Maintenance,Basse,05/08/2026 à 09:04,05/08/2026 à 09:07,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,05/08/2026 09:04:00,05/08/2026 09:07:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800909,Shoppertrak,Maintenance,Basse,05/08/2026 à 09:10,05/08/2026 à 09:13,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,05/08/2026 09:10:00,05/08/2026 09:13:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800912,Etam ,Swap Transporteur,Basse,05/08/2026 à 09:15,05/08/2026 à 09:17,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,05/08/2026 09:15:00,05/08/2026 09:17:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800928,Centric Action,New store - Installation (to be finalized),Basse,05/08/2026 à 09:45,05/08/2026 à 09:52,7min,Sofiane Aoues,"7,00",CENTRIC ACTION,Installation New Store,05/08/2026 09:45:00,05/08/2026 09:52:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800931,Centric Action,Old Store - Dismantling,Basse,05/08/2026 à 09:55,05/08/2026 à 09:58,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Dismantling Old Store,05/08/2026 09:55:00,05/08/2026 09:58:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800934,Centric Action,New Store- Finalize Installation,Basse,05/08/2026 à 10:00,05/08/2026 à 10:03,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation New Store,05/08/2026 10:00:00,05/08/2026 10:03:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800937,Centric Action,New Store - Opening Assistance,Basse,05/08/2026 à 10:05,05/08/2026 à 10:08,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,05/08/2026 10:05:00,05/08/2026 10:08:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800947,Etam ,Swap Transporteur,Basse,05/08/2026 à 10:16,05/08/2026 à 10:20,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,05/08/2026 10:16:00,05/08/2026 10:20:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800969,Etam ,Swap Transporteur,Basse,05/08/2026 à 11:05,05/08/2026 à 11:08,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,05/08/2026 11:05:00,05/08/2026 11:08:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800971,Etam ,Swap Transporteur,Basse,05/08/2026 à 11:10,05/08/2026 à 11:12,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,05/08/2026 11:10:00,05/08/2026 11:12:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800975,Etam ,Swap Transporteur,Basse,05/08/2026 à 11:14,05/08/2026 à 11:16,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,05/08/2026 11:14:00,05/08/2026 11:16:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800977,Etam ,Swap Transporteur,Basse,05/08/2026 à 11:18,05/08/2026 à 11:20,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,05/08/2026 11:18:00,05/08/2026 11:20:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260800990,Pos Service,Maintenance,Basse,05/08/2026 à 12:07,05/08/2026 à 12:10,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,05/08/2026 12:07:00,05/08/2026 12:10:00,12,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801033,Etam ,Intervention Site,Basse,05/08/2026 à 14:02,05/08/2026 à 14:06,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,05/08/2026 14:02:00,05/08/2026 14:06:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801036,Etam ,Intervention Site,Basse,05/08/2026 à 14:07,05/08/2026 à 14:10,3min,Sofiane Aoues,"3,00",ETAM,Intervention sur Site,05/08/2026 14:07:00,05/08/2026 14:10:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801041,Etam ,Maintenance TPE,Basse,05/08/2026 à 14:15,05/08/2026 à 14:20,5min,Sofiane Aoues,"5,00",ETAM,Maintenance,05/08/2026 14:15:00,05/08/2026 14:20:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801044,Amplifon,intervention site + envoi matériel,Basse,05/08/2026 à 14:25,05/08/2026 à 14:35,10min,Sofiane Aoues,"10,00",AMPLIFON,Intervention sur Site,05/08/2026 14:25:00,05/08/2026 14:35:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801047,Adopt,Installation,Basse,05/08/2026 à 14:40,05/08/2026 à 14:44,4min,Sofiane Aoues,"4,00",ADOPT,Installation,05/08/2026 14:40:00,05/08/2026 14:44:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801051,But,Maintenance,Basse,05/08/2026 à 14:52,05/08/2026 à 14:54,2min,Sofiane Aoues,"2,00",BUT,Maintenance,05/08/2026 14:52:00,05/08/2026 14:54:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801055,But,Maintenance,Basse,05/08/2026 à 14:55,05/08/2026 à 14:57,2min,Sofiane Aoues,"2,00",BUT,Maintenance,05/08/2026 14:55:00,05/08/2026 14:57:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801057,Adopt,Installation,Basse,05/08/2026 à 15:00,05/08/2026 à 15:07,7min,Sofiane Aoues,"7,00",ADOPT,Installation,05/08/2026 15:00:00,05/08/2026 15:07:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801061,Adopt,Installation,Basse,05/08/2026 à 15:10,05/08/2026 à 15:15,5min,Sofiane Aoues,"5,00",ADOPT,Installation,05/08/2026 15:10:00,05/08/2026 15:15:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801065,Adopt,Installation,Basse,05/08/2026 à 15:20,05/08/2026 à 15:25,5min,Sofiane Aoues,"5,00",ADOPT,Installation,05/08/2026 15:20:00,05/08/2026 15:25:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+05/08/2026,P260801078,Etam ,Installation,Basse,05/08/2026 à 15:58,05/08/2026 à 16:02,4min,Sofiane Aoues,"4,00",ETAM,Installation,05/08/2026 15:58:00,05/08/2026 16:02:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+06/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+06/08/2026,P260801128,Adopt,Installation,Basse,06/08/2026 à 9:15,06/08/2026 à 9:20,5min,Sofiane Aoues,"5,00",ADOPT,Installation,06/08/2026 09:15:00,06/08/2026 09:20:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801164,Centric Action,New store - Installation (to be finalized),Basse,06/08/2026 à 10:40,06/08/2026 à 10:47,7min,Sofiane Aoues,"7,00",CENTRIC ACTION,Installation New Store,06/08/2026 10:40:00,06/08/2026 10:47:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801167,Centric Action,Old Store - Dismantling,Basse,06/08/2026 à 10:47,06/08/2026 à 10:51,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Dismantling Old Store,06/08/2026 10:47:00,06/08/2026 10:51:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801170,Centric Action,New Store- Finalize Installation,Basse,06/08/2026 à 10:53,06/08/2026 à 10:57,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation New Store,06/08/2026 10:53:00,06/08/2026 10:57:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801174,Centric Action,New Store - Opening Assistance,Basse,06/08/2026 à 11:00,06/08/2026 à 11:04,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Opening Assistance,06/08/2026 11:00:00,06/08/2026 11:04:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801189,Etam,Swap transporteur,Basse,06/08/2026 à 11:35,06/08/2026 à 11:38,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,06/08/2026 11:35:00,06/08/2026 11:38:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801224,But,Maintenance,Basse,06/08/2026 à 14:00,06/08/2026 à 14:05,5min,Sofiane Aoues,"5,00",BUT,Maintenance,06/08/2026 14:00:00,06/08/2026 14:05:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801228,Aem Soft,Intervention J+1,Basse,06/08/2026 à 14:23,06/08/2026 à 14:26,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,06/08/2026 14:23:00,06/08/2026 14:26:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801245,But,Maintenance,Basse,06/08/2026 à 14:57,06/08/2026 à 15:00,3min,Sofiane Aoues,"3,00",BUT,Maintenance,06/08/2026 14:57:00,06/08/2026 15:00:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801257,Adopt,Installation,Basse,06/08/2026 à 15:40,06/08/2026 à 15:45,5min,Sofiane Aoues,"5,00",ADOPT,Installation,06/08/2026 15:40:00,06/08/2026 15:45:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801259,Etam,Enoi matériel,Basse,06/08/2026 à 15:48,06/08/2026 à 15:52,4min,Sofiane Aoues,"4,00",ETAM,Envoi Matériel,06/08/2026 15:48:00,06/08/2026 15:52:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801262,Etam,Swap transporteur,Basse,06/08/2026 à 16:05,06/08/2026 à 16:08,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,06/08/2026 16:05:00,06/08/2026 16:08:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+06/08/2026,P260801271,Pos Service,Maintenance,Basse,06/08/2026 à 16:47,06/08/2026 à 16:50,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,06/08/2026 16:47:00,06/08/2026 16:50:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+07/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+07/08/2026,P260801316,Shoppertrak,Maintenance,Basse,07/08/2026 à 09:15,07/08/2026 à 09:18,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,07/08/2026 09:15:00,07/08/2026 09:18:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801328,But,Maintenance,Basse,07/08/2026 à 09:53,06/08/2026 à 09:55,2min,Sofiane Aoues,"2,00",BUT,Maintenance,07/08/2026 09:53:00,06/08/2026 09:55:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801356,But,Maintenance,Basse,07/08/2026 à 10:33,06/08/2026 à 10:36,3min,Sofiane Aoues,"3,00",BUT,Maintenance,07/08/2026 10:33:00,06/08/2026 10:36:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801374,Amplifon,Envoi Matériel,Basse,07/08/2026 à 11:25,06/08/2026 à 11:27,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,07/08/2026 11:25:00,06/08/2026 11:27:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801378,Aem Soft,Intervention J+1,Basse,07/08/2026 à 11:35,06/08/2026 à 11:38,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,07/08/2026 11:35:00,06/08/2026 11:38:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801425,Shoppertrak,Maintenance,Basse,07/08/2026 à 14:22,06/08/2026 à 14:25,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,07/08/2026 14:22:00,06/08/2026 14:25:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+07/08/2026,P260801450,Adopt,Installation,Basse,07/08/2026 à 15:50,06/08/2026 à 15:58,8min,Sofiane Aoues,"8,00",ADOPT,Installation,07/08/2026 15:50:00,06/08/2026 15:58:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+10/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+10/08/2026,P260801608,Etam,Envoi Matériel,Basse,10/08/2026 à 11:10,10/08/2026 à 11:16,6min,Sofiane Aoues,"6,00",ETAM,Envoi Matériel,10/08/2026 11:10:00,10/08/2026 11:16:00,11,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801609 ,Etam,Envoi Matériel,Basse,10/08/2026 à 11:18,10/08/2026 à 11:20,2min,Sofiane Aoues,"2,00",ETAM,Envoi Matériel,10/08/2026 11:18:00,10/08/2026 11:20:00,11,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801610,Etam,Envoi Matériel,Basse,10/08/2026 à 11:22,10/08/2026 à 11:24,2min,Sofiane Aoues,"2,00",ETAM,Envoi Matériel,10/08/2026 11:22:00,10/08/2026 11:24:00,11,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801614,Aem Soft,Intervention Date Imposée,Basse,10/08/2026 à 11:30,10/08/2026 à 11:34,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention Date Imposée,10/08/2026 11:30:00,10/08/2026 11:34:00,11,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801616,Shoppertrak,Maintenance,Basse,10/08/2026 à 12:04,10/08/2026 à 12:06,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,10/08/2026 12:04:00,10/08/2026 12:06:00,12,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801627,Shoppertrak,Maintenance,Basse,10/08/2026 à 12:40,10/08/2026 à 12:43,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,10/08/2026 12:40:00,10/08/2026 12:43:00,12,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801665,Adopt,Installation,Basse,10/08/2026 à 14:40,10/08/2026 à 14:43,3min,Sofiane Aoues,"3,00",ADOPT,Installation,10/08/2026 14:40:00,10/08/2026 14:43:00,14,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801666,Adopt,Installation,Basse,10/08/2026 à 14:44,10/08/2026 à 14:47,3min,Sofiane Aoues,"3,00",ADOPT,Installation,10/08/2026 14:44:00,10/08/2026 14:47:00,14,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801667,Adopt,Installation,Basse,10/08/2026 à 14:50,10/08/2026 à 14:53,3min,Sofiane Aoues,"3,00",ADOPT,Installation,10/08/2026 14:50:00,10/08/2026 14:53:00,14,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801672,Adopt,Installation,Basse,10/08/2026 à 14:55,10/08/2026 à 14:58,3min,Sofiane Aoues,"3,00",ADOPT,Installation,10/08/2026 14:55:00,10/08/2026 14:58:00,14,lundi,,,,,,,,,,Sofiane Aoues
+10/08/2026,P260801676,Adopt,Installation,Basse,10/08/2026 à 15:00,10/08/2026 à 15:03,3min,Sofiane Aoues,"3,00",ADOPT,Installation,10/08/2026 15:00:00,10/08/2026 15:03:00,15,lundi,,,,,,,,,,Sofiane Aoues
+11/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+11/08/2026,P260801746,Amplifon,Intervention sur site,Basse,11/08/2026 à 09:00,11/08/2026 à 09:03,3min,Sofiane Aoues,"3,00",AMPLIFON,Intervention sur Site,11/08/2026 09:00:00,11/08/2026 09:03:00,9,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801763,Etam,Swap Transporteur,Basse,11/08/2026 à 09:20,11/08/2026 à 09:25,5min,Sofiane Aoues,"5,00",ETAM,Swap Transporteur,11/08/2026 09:20:00,11/08/2026 09:25:00,9,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801792,Adopt,Installation,Basse,11/08/2026 à 10:20,11/08/2026 à 10:24,4min,Sofiane Aoues,"4,00",ADOPT,Installation,11/08/2026 10:20:00,11/08/2026 10:24:00,10,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801793,Aem Soft,Intervention J+1,Basse,11/08/2026 à 10:28,11/08/2026 à 10:32,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,11/08/2026 10:28:00,11/08/2026 10:32:00,10,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801795,Etam,Fermeture Définitive,Basse,11/08/2026 à 10:40,11/08/2026 à 10:44,4min,Sofiane Aoues,"4,00",ETAM,Fermeture Définitive,11/08/2026 10:40:00,11/08/2026 10:44:00,10,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801797,Aem Soft,Intervention J+1,Basse,11/08/2026 à 10:50,11/08/2026 à 10:53,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,11/08/2026 10:50:00,11/08/2026 10:53:00,10,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801799,Aem Soft,Intervention J+1,Basse,11/08/2026 à 10:55,11/08/2026 à 10:58,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,11/08/2026 10:55:00,11/08/2026 10:58:00,10,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801806,Adopt,Installation,Basse,11/08/2026 à 11:05,11/08/2026 à 11:10,5min,Sofiane Aoues,"5,00",ADOPT,Installation,11/08/2026 11:05:00,11/08/2026 11:10:00,11,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801816,Shoppertrak,Maintenance,Basse,11/08/2026 à 12:12,11/08/2026 à 12:14,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,11/08/2026 12:12:00,11/08/2026 12:14:00,12,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801843,Shoppertrak,Maintenance,Basse,11/08/2026 à 14:30,11/08/2026 à 14:33,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,11/08/2026 14:30:00,11/08/2026 14:33:00,14,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801852,Amplifon,Envoi PC Dell,Basse,11/08/2026 à 15:20,11/08/2026 à 15:23,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,11/08/2026 15:20:00,11/08/2026 15:23:00,15,mardi,,,,,,,,,,Sofiane Aoues
+11/08/2026,P260801854,Etam,Swap Transporteur,Basse,11/08/2026 à 15:23,11/08/2026 à 15:25,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,11/08/2026 15:23:00,11/08/2026 15:25:00,15,mardi,,,,,,,,,,Sofiane Aoues
+12/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+12/08/2026,P260801905,Pos Service,Maintenance,Basse,12/08/2026 à 09:10,12/08/2026 à 09:15,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,12/08/2026 09:10:00,12/08/2026 09:15:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801926,But,Maintenance,Basse,12/08/2026 à 10:24,12/08/2026 à 10:30,6min,Sofiane Aoues,"6,00",BUT,Maintenance,12/08/2026 10:24:00,12/08/2026 10:30:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801929,Shoppertrak,Maintenance,Basse,12/08/2026 à 10:36,12/08/2026 à 10:39,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,12/08/2026 10:36:00,12/08/2026 10:39:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801930,Amplifon,Envoi Matériel,Basse,12/08/2026 à 10:42,12/08/2026 à 10:44,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,12/08/2026 10:42:00,12/08/2026 10:44:00,10,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801938,But,Maintenance,Basse,12/08/2026 à 11:00,12/08/2026 à 11:03,3min,Sofiane Aoues,"3,00",BUT,Maintenance,12/08/2026 11:00:00,12/08/2026 11:03:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801949,Pos Service,Installation,Basse,12/08/2026 à 11:40,12/08/2026 à 11:44,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,12/08/2026 11:40:00,12/08/2026 11:44:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801954,Barron Mc Cann,Maintenance,Basse,12/08/2026 à 11:50,12/08/2026 à 11:58,8min,Sofiane Aoues,"8,00",BARRON MCCANN,Maintenance,12/08/2026 11:50:00,12/08/2026 11:58:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801979,Amplifon,Envoi Matériel,Basse,12/08/2026 à 14:00,12/08/2026 à 14:02,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,12/08/2026 14:00:00,12/08/2026 14:02:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+12/08/2026,P260801992,Adopt,Maintenance,Basse,12/08/2026 à 15:00,12/08/2026 à 15:06,6min,Sofiane Aoues,"6,00",ADOPT,Maintenance,12/08/2026 15:00:00,12/08/2026 15:06:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+13/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+13/08/2026,P260802040,Amplifon,Envoi Matériel,Basse,13/08/2026 à 09:00,13/08/2026 à 09:02,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,13/08/2026 09:00:00,13/08/2026 09:02:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802069,But,Maintenance,Basse,13/08/2026 à 10:07,13/08/2026 à 10:10,3min,Sofiane Aoues,"3,00",BUT,Maintenance,13/08/2026 10:07:00,13/08/2026 10:10:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802074,Pos Service ,Installation,Basse,13/08/2026 à 10:40,13/08/2026 à 10:46,6min,Sofiane Aoues,"6,00",POS SERVICE,Installation,13/08/2026 10:40:00,13/08/2026 10:46:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802076,Aem Soft,Intervention J+1,Basse,13/08/2026 à 10:50,13/08/2026 à 10:53,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,13/08/2026 10:50:00,13/08/2026 10:53:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802081,Aem Soft,Intervention J+1,Basse,13/08/2026 à 11:06,13/08/2026 à 11:10,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,13/08/2026 11:06:00,13/08/2026 11:10:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802091,Pos Service ,Maintenance,Basse,13/08/2026 à 11:41,13/08/2026 à 11:45,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,13/08/2026 11:41:00,13/08/2026 11:45:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802099,Pos Service ,Installation,Basse,13/08/2026 à 12:12,13/08/2026 à 12:16,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,13/08/2026 12:12:00,13/08/2026 12:16:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802100,Etam,Intervention Site,Basse,13/08/2026 à 12:20,13/08/2026 à 12:24,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,13/08/2026 12:20:00,13/08/2026 12:24:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802123,Adopt ,Maintenance,Basse,13/08/2026 à 14:02,13/08/2026 à 14:06,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,13/08/2026 14:02:00,13/08/2026 14:06:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802127,Pos Service ,Maintenance,Basse,13/08/2026 à 14:07,13/08/2026 à 14:10,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,13/08/2026 14:07:00,13/08/2026 14:10:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802129,Amplifon,Envoi Matériel,Basse,13/08/2026 à 14:18,13/08/2026 à 14:21,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,13/08/2026 14:18:00,13/08/2026 14:21:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802132,Etam,Swap Transporteur,Basse,13/08/2026 à 14:25,13/08/2026 à 14:29,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,13/08/2026 14:25:00,13/08/2026 14:29:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802167,Pos Service ,Installation,Basse,13/08/2026 à 16:00,13/08/2026 à 16:04,4min,Sofiane Aoues,"4,00",POS SERVICE,Installation,13/08/2026 16:00:00,13/08/2026 16:04:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+13/08/2026,P260802178,Etam,Ramassage Mataériel,Basse,13/08/2026 à 16:25,13/08/2026 à 16:30,5min,Sofiane Aoues,"5,00",ETAM,Ramassage Matériel,13/08/2026 16:25:00,13/08/2026 16:30:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+14/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+14/08/2026,P260802232,Amplifon,Intervention sur site,Basse,14/08/2026 à 09:40,14/08/2026 à 09:43,3min,Sofiane Aoues,"3,00",AMPLIFON,Intervention sur Site,14/08/2026 09:40:00,14/08/2026 09:43:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802544,But,Maintenance,Basse,14/08/2026 à 11:17,14/08/2026 à 11:20,3min,Sofiane Aoues,"3,00",BUT,Maintenance,14/08/2026 11:17:00,14/08/2026 11:20:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802549,Centric Action,Floorwalker,Basse,14/08/2026 à 11:30,14/08/2026 à 11:34,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Floorwalker,14/08/2026 11:30:00,14/08/2026 11:34:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802551,Centric Action,Installation,Basse,14/08/2026 à 11:34,14/08/2026 à 11:37,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,14/08/2026 11:34:00,14/08/2026 11:37:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802553,Centric Action,Handover,Basse,14/08/2026 à 11:37,14/08/2026 à 11:40,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,14/08/2026 11:37:00,14/08/2026 11:40:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802557,Centric Action,Openings,Basse,14/08/2026 à 11:40,14/08/2026 à 11:43,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,14/08/2026 11:40:00,14/08/2026 11:43:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802569,Etam,Swap Transporteur,Basse,14/08/2026 à 12:23,14/08/2026 à 12:26,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,14/08/2026 12:23:00,14/08/2026 12:26:00,12,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802594,Shoppertrak,Installation,Basse,14/08/2026 à 14:05,14/08/2026 à 14:09,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Installation,14/08/2026 14:05:00,14/08/2026 14:09:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802596,Adopt,Maintenance,Basse,14/08/2026 à 14:11,14/08/2026 à 14:14,3min,Sofiane Aoues,"3,00",ADOPT,Maintenance,14/08/2026 14:11:00,14/08/2026 14:14:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802600,Etam,Swap Transporteur,Basse,14/08/2026 à 14:18,14/08/2026 à 14:20,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,14/08/2026 14:18:00,14/08/2026 14:20:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802616,Barron McCann,Maintenance,Basse,14/08/2026 à 15:30,14/08/2026 à 15:37,7min,Sofiane Aoues,"7,00",BARRON MCCANN,Maintenance,14/08/2026 15:30:00,14/08/2026 15:37:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+14/08/2026,P260802639,Barron McCann,Maintenance,Basse,14/08/2026 à 16:20,14/08/2026 à 16:26,6min,Sofiane Aoues,"6,00",BARRON MCCANN,Maintenance,14/08/2026 16:20:00,14/08/2026 16:26:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+17/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+17/08/2026,P260802752,Pos Service,Maintenance,Urgent, 17/08/2026 à 09:06,17/08/2026 à 09:10,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,17/08/2026 09:06:00,17/08/2026 09:10:00,9,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802761,But,Maintenance,Basse, 17/08/2026 à 09:25,17/08/2026 à 09:27,2min,Sofiane Aoues,"2,00",BUT,Maintenance,17/08/2026 09:25:00,17/08/2026 09:27:00,9,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802789,Aem Soft,Intervention J+1,Basse, 17/08/2026 à 10:17,17/08/2026 à 10:20,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/08/2026 10:17:00,17/08/2026 10:20:00,10,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802794,Aem Soft,Intervention J+1,Basse, 17/08/2026 à 10:25,17/08/2026 à 10:28,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/08/2026 10:25:00,17/08/2026 10:28:00,10,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802800,Aem Soft,Intervention J+1,Basse, 17/08/2026 à 10:32,17/08/2026 à 10:35,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/08/2026 10:32:00,17/08/2026 10:35:00,10,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802805,Amplifon,Expédition sans Intégration,Basse, 17/08/2026 à 10:47,17/08/2026 à 10:50,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,17/08/2026 10:47:00,17/08/2026 10:50:00,10,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802820,Aem Soft,Intervention J+1,Basse, 17/08/2026 à 11:27,17/08/2026 à 11:30,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,17/08/2026 11:27:00,17/08/2026 11:30:00,11,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802844,Etam,Swap Transporteur,Basse, 17/08/2026 à 12:57,17/08/2026 à 13:00,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,17/08/2026 12:57:00,17/08/2026 13:00:00,12,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802868,Etam,Swap Transporteur,Basse, 17/08/2026 à 13:57,17/08/2026 à 14:00,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,17/08/2026 13:57:00,17/08/2026 14:00:00,13,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802871,Amplifon,Expédition avec Intégration,Basse, 17/08/2026 à 14:05,17/08/2026 à 14:07,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,17/08/2026 14:05:00,17/08/2026 14:07:00,14,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802893,Etam,Maintenance TPE,Basse, 17/08/2026 à 14:50,17/08/2026 à 14:55,5min,Sofiane Aoues,"5,00",ETAM,Maintenance,17/08/2026 14:50:00,17/08/2026 14:55:00,14,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802899,But,Maintenance,Basse, 17/08/2026 à 15:18,17/08/2026 à 15:21,3min,Sofiane Aoues,"3,00",BUT,Maintenance,17/08/2026 15:18:00,17/08/2026 15:21:00,15,lundi,,,,,,,,,,Sofiane Aoues
+17/08/2026,P260802909,But,Maintenance,Basse, 17/08/2026 à 15:50,17/08/2026 à 15:55,5min,Sofiane Aoues,"5,00",BUT,Maintenance,17/08/2026 15:50:00,17/08/2026 15:55:00,15,lundi,,,,,,,,,,Sofiane Aoues
+18/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+18/08/2026,P260802994,Amplifon,Intervention sur site,Basse, 18/08/2026 à 09:01,18/08/2026 à 09:03,2min,Sofiane Aoues,"2,00",AMPLIFON,Intervention sur Site,18/08/2026 09:01:00,18/08/2026 09:03:00,9,mardi,,,,,,,,,,Sofiane Aoues
+18/08/2026,P260803112,Adopt,Installation,Basse, 18/08/2026 à 15:05,18/08/2026 à 15:10,5min,Sofiane Aoues,"5,00",ADOPT,Installation,18/08/2026 15:05:00,18/08/2026 15:10:00,15,mardi,,,,,,,,,,Sofiane Aoues
+19/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+19/08/2026,P260803237,Pos Service,Maintenance,Basse, 19/08/2026 à 11:10, 19/08/2026 à 11:14,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,19/08/2026 11:10:00,19/08/2026 11:14:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+19/08/2026,P260803291,Pos Service,Maintenance,Basse, 19/08/2026 à 14:05, 19/08/2026 à 14:10,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,19/08/2026 14:05:00,19/08/2026 14:10:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+19/08/2026,P260803294,Etam,Envoi SImple,Basse, 19/08/2026 à 14:20, 19/08/2026 à 14:24,4min,Sofiane Aoues,"4,00",ETAM,Envoi Matériel,19/08/2026 14:20:00,19/08/2026 14:24:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+19/08/2026,P260803299,Etam,Envoi SImple,Basse, 19/08/2026 à 14:28, 19/08/2026 à 14:32,4min,Sofiane Aoues,"4,00",ETAM,Envoi Matériel,19/08/2026 14:28:00,19/08/2026 14:32:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+19/08/2026,P260803320,Pos Service,Maintenance,Basse, 19/08/2026 à 15:30, 19/08/2026 à 15:35,5min,Sofiane Aoues,"5,00",POS SERVICE,Maintenance,19/08/2026 15:30:00,19/08/2026 15:35:00,15,mercredi,,,,,,,,,,Sofiane Aoues
+20/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+20/08/2026,P260803391,Adopt ,Installation,Basse, 20/08/2026 à 09:14, 20/08/2026 à 09:24,10min,Sofiane Aoues,"10,00",ADOPT,Installation,20/08/2026 09:14:00,20/08/2026 09:24:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803396,Adopt ,Installation,Basse, 20/08/2026 à 09:30, 20/08/2026 à 09:38,8min,Sofiane Aoues,"8,00",ADOPT,Installation,20/08/2026 09:30:00,20/08/2026 09:38:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803402,Aem Soft,Intervention J+1,Basse, 20/08/2026 à 09:45, 20/08/2026 à 09:49,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,20/08/2026 09:45:00,20/08/2026 09:49:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803438,Aem Soft,Intervention J+1,Basse, 20/08/2026 à 11:18, 20/08/2026 à 11:22,4min,Sofiane Aoues,"4,00",AEM SOFT,Intervention J+1,20/08/2026 11:18:00,20/08/2026 11:22:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803479,Etam,Intervention Site,Basse, 20/08/2026 à 14:02, 20/08/2026 à 14:06,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,20/08/2026 14:02:00,20/08/2026 14:06:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803509,Adopt ,Maintenance,Basse, 20/08/2026 à 15:26, 20/08/2026 à  15:30,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,20/08/2026 15:26:00,20/08/2026 15:30:00,15,jeudi,,,,,,,,,,Sofiane Aoues
+20/08/2026,P260803528,Amplifon,Intervention Site,Basse, 20/08/2026 à 16:32, 20/08/2026 à  16:36,4min,Sofiane Aoues,"4,00",AMPLIFON,Intervention sur Site,20/08/2026 16:32:00,20/08/2026 16:36:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+21/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+21/08/2026,P260803566,Etam,Envoi Matériel,Basse, 21/08/2026 à 09:00, 21/08/2026 à  09:06,6min,Sofiane Aoues,"6,00",ETAM,Envoi Matériel,21/08/2026 09:00:00,21/08/2026 09:06:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803603,Etam,Swap Transporteur,Basse, 21/08/2026 à 10:05, 21/08/2026 à  10:09,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,21/08/2026 10:05:00,21/08/2026 10:09:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803566,Etam,Envoi Matériel,Basse, 21/08/2026 à 09:00, 21/08/2026 à  09:06,6min,Sofiane Aoues,"6,00",ETAM,Envoi Matériel,21/08/2026 09:00:00,21/08/2026 09:06:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803603,Etam,Swap Transporteur,Basse, 21/08/2026 à 10:05, 21/08/2026 à  10:09,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,21/08/2026 10:05:00,21/08/2026 10:09:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803616,Adopt,Maintenance,Basse, 21/08/2026 à 10:28, 21/08/2026 à  10:32,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,21/08/2026 10:28:00,21/08/2026 10:32:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803619,Aem Soft,Intervention J+1,Basse, 21/08/2026 à 10:37,21/08/2026 à  10:40,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,21/08/2026 10:37:00,21/08/2026 10:40:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803624,Etam,Swap Transporteur,Basse, 21/08/2026 à 10:52, 21/08/2026 à  10:56,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,21/08/2026 10:52:00,21/08/2026 10:56:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803627,Shoppertrak,Maintenance,Basse, 21/08/2026 à 10:57,21/08/2026 à  11:00,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,21/08/2026 10:57:00,21/08/2026 11:00:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803649,Etam,Swap Transporteur,Basse, 21/08/2026 à 12:18,21/08/2026 à  12:20,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,21/08/2026 12:18:00,21/08/2026 12:20:00,12,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803671,Adopt,Maintenance,Basse, 21/08/2026 à 14:00, 21/08/2026 à  14:04,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,21/08/2026 14:00:00,21/08/2026 14:04:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803676,Etam,Swap Transporteur,Basse, 21/08/2026 à 14:31, 21/08/2026 à  14:34,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,21/08/2026 14:31:00,21/08/2026 14:34:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803679,Etam,Swap Transporteur,Basse, 21/08/2026 à 14:35, 21/08/2026 à  14:37,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,21/08/2026 14:35:00,21/08/2026 14:37:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803684,But,Maintenance,Basse, 21/08/2026 à 14:51, 21/08/2026 à  14:54,3min,Sofiane Aoues,"3,00",BUT,Maintenance,21/08/2026 14:51:00,21/08/2026 14:54:00,14,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803695,Centric Action,New store - Installation (to be finalized),Basse, 21/08/2026 à 15:35, 21/08/2026 à 15:39,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation New Store,21/08/2026 15:35:00,21/08/2026 15:39:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803697,Centric Action,Old Store - Dismantling,Basse, 21/08/2026 à 15:40, 21/08/2026 à 15:44,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Dismantling Old Store,21/08/2026 15:40:00,21/08/2026 15:44:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803699,Centric Action,New Store- Finalize Installation,Basse, 21/08/2026 à 15:45, 21/08/2026 à 14:49,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation New Store,21/08/2026 15:45:00,21/08/2026 14:49:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803700,Centric Action,New Store - Opening Assistance,Basse, 21/08/2026 à 15:50, 21/08/2026 à 15:54,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Opening Assistance,21/08/2026 15:50:00,21/08/2026 15:54:00,15,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803708,Centric Action,Floorwalker,Basse, 21/08/2026 à 16:35, 21/08/2026 à 16:39,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Floorwalker,21/08/2026 16:35:00,21/08/2026 16:39:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803710,Centric Action,Installation,Basse, 21/08/2026 à 16:40, 21/08/2026 à 16:44,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation,21/08/2026 16:40:00,21/08/2026 16:44:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803713,Centric Action,Handover,Basse, 21/08/2026 à 16:45, 21/08/2026 à 16:49,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Handover,21/08/2026 16:45:00,21/08/2026 16:49:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+21/08/2026,P260803714,Centric Action,Opening Assistance,Basse, 21/08/2026 à 16:50, 21/08/2026 à 16:54,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Opening Assistance,21/08/2026 16:50:00,21/08/2026 16:54:00,16,vendredi,,,,,,,,,,Sofiane Aoues
+24/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+24/08/2026,P260803853,Etam,Swap Transporteur,Basse, 24/08/2026 à 09:07,24/08/2026 à 09:10,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,24/08/2026 09:07:00,24/08/2026 09:10:00,9,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803932,Centric Action,Floorwalker,Basse, 24/08/2026 à 10:38, 24/08/2026 à 10:41,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,24/08/2026 10:38:00,24/08/2026 10:41:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803936,Centric Action,Installation,Basse, 24/08/2026 à 10:41, 24/08/2026 à 10:44,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,24/08/2026 10:41:00,24/08/2026 10:44:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803940,Centric Action,Handover,Basse, 24/08/2026 à 10:44, 24/08/2026 à 10:46,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,24/08/2026 10:44:00,24/08/2026 10:46:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803942,Centric Action,Opening Assistance,Basse, 24/08/2026 à 10:46, 24/08/2026 à 10:48,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,24/08/2026 10:46:00,24/08/2026 10:48:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803954,Centric Action,Floorwalker,Basse, 24/08/2026 à 10:50, 24/08/2026 à 10:52,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Floorwalker,24/08/2026 10:50:00,24/08/2026 10:52:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803955,Centric Action,Installation,Basse, 24/08/2026 à 10:52, 24/08/2026 à 10:54,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,24/08/2026 10:52:00,24/08/2026 10:54:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803957,Centric Action,Handover,Basse, 24/08/2026 à 10:56, 24/08/2026 à 10:58,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,24/08/2026 10:56:00,24/08/2026 10:58:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803958,Centric Action,Opening Assistance,Basse, 24/08/2026 à 10:58, 24/08/2026 à 11:00,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,24/08/2026 10:58:00,24/08/2026 11:00:00,10,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803965,Aem Soft ,Intervention J+1,Basse, 24/08/2026 à 11:30, 24/08/2026 à 11:33,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,24/08/2026 11:30:00,24/08/2026 11:33:00,11,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803969,Aem Soft ,Intervention J+1,Basse, 24/08/2026 à 11:34, 24/08/2026 à 11:37,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,24/08/2026 11:34:00,24/08/2026 11:37:00,11,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803976,Etam,Swap Transporteur,Basse, 24/08/2026 à 12:07,24/08/2026 à 12:11,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,24/08/2026 12:07:00,24/08/2026 12:11:00,12,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260803988,Pos Service,Maintenance,Basse, 24/08/2026 à 12:47,24/08/2026 à 12:50,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,24/08/2026 12:47:00,24/08/2026 12:50:00,12,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804025,Shoppertrak,Maintenance,Basse, 24/08/2026 à 14:00,24/08/2026 à 14:03,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,24/08/2026 14:00:00,24/08/2026 14:03:00,14,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804052,Centric Action,New store - Installation (to be finalized),Basse, 24/08/2026 à 15:30, 24/08/2026 à 15:33,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation New Store,24/08/2026 15:30:00,24/08/2026 15:33:00,15,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804053,Centric Action,Old Store - Dismantling,Basse, 24/08/2026 à 15:33, 24/08/2026 à 15:35,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Dismantling Old Store,24/08/2026 15:33:00,24/08/2026 15:35:00,15,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804056,Centric Action,New Store- Finalize Installation,Basse, 24/08/2026 à 15:35, 24/08/2026 à 15:39,4min,Sofiane Aoues,"4,00",CENTRIC ACTION,Installation New Store,24/08/2026 15:35:00,24/08/2026 15:39:00,15,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804059,Centric Action,New Store - Opening Assistance,Basse, 24/08/2026 à 15:39, 24/08/2026 à 15:41,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,24/08/2026 15:39:00,24/08/2026 15:41:00,15,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804065,Pos Service,Maintenance,Basse, 24/08/2026 à 15:58,24/08/2026 à 16:00,2min,Sofiane Aoues,"2,00",POS SERVICE,Maintenance,24/08/2026 15:58:00,24/08/2026 16:00:00,15,lundi,,,,,,,,,,Sofiane Aoues
+24/08/2026,P260804073,Etam,Swap Transporteur,Basse, 24/08/2026 à 16:35,24/08/2026 à 16:37,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,24/08/2026 16:35:00,24/08/2026 16:37:00,16,lundi,,,,,,,,,,Sofiane Aoues
+25/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+25/08/2026,P260804182,Centric Action,Floorwalker,Basse, 25/08/2026 à 10:00, 25/08/2026 à 10:04,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,25/08/2026 10:00,25/08/2026 10:04,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804185,Centric Action,Installation,Basse, 25/08/2026 à 10:04, 25/08/2026 à 10:07,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,25/08/2026 10:04,25/08/2026 10:07,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804189,Centric Action,Handover,Basse, 25/08/2026 à 10:07, 25/08/2026 à 10:10,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,25/08/2026 10:07,25/08/2026 10:10,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804190,Centric Action,Opening Assistance,Basse, 25/08/2026 à 10:10, 25/08/2026 à 10:12,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,25/08/2026 10:10,25/08/2026 10:12,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804207,Shoppertrak,Maintenance,Basse, 25/08/2026 à 10:20, 25/08/2026 à 10:22,2min,Sofiane Aoues,"2,00",SHOPPERTRAK,Maintenance,25/08/2026 10:20,25/08/2026 10:22,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804221,Centric Action,Floorwalker,Basse, 25/08/2026 à 10:40, 25/08/2026 à 10:42,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Floorwalker,25/08/2026 10:40,25/08/2026 10:42,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804225,Centric Action,Installation,Basse, 25/08/2026 à 10:42, 25/08/2026 à 10:44,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,25/08/2026 10:42,25/08/2026 10:44,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804230,Centric Action,Handover,Basse, 25/08/2026 à 10:44, 25/08/2026 à 10:46,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,25/08/2026 10:44,25/08/2026 10:46,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804237,Centric Action,Opening Assistance,Basse, 25/08/2026 à 10:46, 25/08/2026 à 10:48,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,25/08/2026 10:46,25/08/2026 10:48,10,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804249,Centric Action,Floorwalker,Basse, 25/08/2026 à 11:10, 25/08/2026 à 11:12,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Floorwalker,25/08/2026 11:10,25/08/2026 11:12,11,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804252,Centric Action,Installation,Basse, 25/08/2026 à 11:12, 25/08/2026 à 11:14,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,25/08/2026 11:12,25/08/2026 11:14,11,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804256,Centric Action,Handover,Basse, 25/08/2026 à 11:16, 25/08/2026 à 11:18,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,25/08/2026 11:16,25/08/2026 11:18,11,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804261,Centric Action,Opening Assistance,Basse, 25/08/2026 à 11:18, 25/08/2026 à 11:20,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,25/08/2026 11:18,25/08/2026 11:20,11,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804331,Centric Action,Floorwalker,Basse, 25/08/2026 à 15:00, 25/08/2026 à 15:03,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,25/08/2026 15:00,25/08/2026 15:03,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804332,Centric Action,Installation,Basse, 25/08/2026 à 15:03, 25/08/2026 à 15:06,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Installation,25/08/2026 15:03,25/08/2026 15:06,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804335,Centric Action,Handover,Basse, 25/08/2026 à 15:06, 25/08/2026 à 15:09,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Handover,25/08/2026 15:06,25/08/2026 15:09,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804336,Centric Action,Opening Assistance,Basse, 25/08/2026 à 15:09, 25/08/2026 à 15:12,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Opening Assistance,25/08/2026 15:09,25/08/2026 15:12,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804346,Adopt,Maintenance,Basse, 25/08/2026 à 15:35, 25/08/2026 à 15:39,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,25/08/2026 15:35,25/08/2026 15:39,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804351,Axe E-santé,Remplacement,Basse, 25/08/2026 à 15:40, 25/08/2026 à 15:44,4min,Sofiane Aoues,"4,00",AXE E-SANTE,Remplacement Matériel,25/08/2026 15:40,25/08/2026 15:44,15,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804360,Etam,Swap Transporteur,Basse, 25/08/2026 à 16:15, 25/08/2026 à 16:18,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,25/08/2026 16:15,25/08/2026 16:18,16,mardi,,,,,,,,,,Sofiane Aoues
+25/08/2026,P260804361,Axe E-santé,Remplacement,Basse, 25/08/2026 à 16:20, 25/08/2026 à 16:24,4min,Sofiane Aoues,"4,00",AXE E-SANTE,Remplacement Matériel,25/08/2026 16:24,25/08/2026 16:24,16,mardi,,,,,,,,,,Sofiane Aoues
+26/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+26/08/2026,P260804428,Centric Action,Floorwalker,Basse, 26/08/2026 à 09:00, 26/08/2026 à 09:03,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,26/08/2026 09:00:00,26/08/2026 09:03:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804431,Centric Action,Installation,Basse, 26/08/2026 à 09:05, 26/08/2026 à 09:07,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,26/08/2026 09:05:00,26/08/2026 09:07:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804434,Centric Action,Handover,Basse, 26/08/2026 à 09:07, 26/08/2026 à 09:09,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,26/08/2026 09:07:00,26/08/2026 09:09:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804438,Centric Action,Opening Assistance,Basse, 26/08/2026 à 09:09, 26/08/2026 à 09:11,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,26/08/2026 09:09:00,26/08/2026 09:11:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804450,Etam,Fermeture Définitive,Basse, 26/08/2026 à 09:40, 26/08/2026 à 09:44,4min,Sofiane Aoues,"4,00",ETAM,Fermeture Définitive,26/08/2026 09:40:00,26/08/2026 09:44:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804456,But ,Maintenance,Basse, 26/08/2026 à 09:46, 26/08/2026 à 09:48,2min,Sofiane Aoues,"2,00",BUT,Maintenance,26/08/2026 09:46:00,26/08/2026 09:48:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804459,Pixel inspiration,Maintenance,Basse, 26/08/2026 à 09:50, 26/08/2026 à 09:56,6min,Sofiane Aoues,"6,00",PIXEL INSPIRATION,Maintenance,26/08/2026 09:50:00,26/08/2026 09:56:00,9,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804495,Etam,Swap Transporteur,Basse, 26/08/2026 à 11:00, 26/08/2026 à 11:03,2min,Sofiane Aoues,"2,00",ETAM,Swap Transporteur,26/08/2026 11:00:00,26/08/2026 11:03:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804504,Shoppertrak,Maintenance,Basse, 26/08/2026 à 11:35, 26/08/2026 à 11:38,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,26/08/2026 11:35:00,26/08/2026 11:38:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804508,CCMO,Envoi Matériel,Basse, 26/08/2026 à 11:40, 26/08/2026 à 11:44,4min,Sofiane Aoues,"4,00",CCMO,Envoi Matériel,26/08/2026 11:40:00,26/08/2026 11:44:00,11,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804517,Etam,Ajout Matériel,Basse, 26/08/2026 à 12:40, 26/08/2026 à 12:43,3min,Sofiane Aoues,"3,00",ETAM,Ajout Matériel,26/08/2026 12:40:00,26/08/2026 12:43:00,12,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804556,Pos Service,Maintenance,Basse, 26/08/2026 à 14:00, 26/08/2026 à 14:03,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,26/08/2026 14:00:00,26/08/2026 14:03:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804562,Etam,Fermeture Définitive,Basse, 26/08/2026 à 14:05, 26/08/2026 à 14:08,3min,Sofiane Aoues,"3,00",ETAM,Fermeture Définitive,26/08/2026 14:05:00,26/08/2026 14:08:00,14,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804607,Shoppertrak,Maintenance,Basse, 26/08/2026 à 16:15, 26/08/2026 à 16:18,3min,Sofiane Aoues,"3,00",SHOPPERTRAK,Maintenance,26/08/2026 16:15:00,26/08/2026 16:18:00,16,mercredi,,,,,,,,,,Sofiane Aoues
+26/08/2026,P260804609,Adopt,Maintenance,Basse, 26/08/2026 à 16:25, 26/08/2026 à 16:29,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,26/08/2026 16:25:00,26/08/2026 16:29:00,16,mercredi,,,,,,,,,,Sofiane Aoues
+27/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+27/08/2026,P260804677,Etam,Intervention Technicien,Basse, 27/08/2026 à 09:05, 27/08/2026 à 09:09,4min,Sofiane Aoues,"4,00",ETAM,Intervention sur Site,27/08/2026 09:05:00,27/08/2026 09:09:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804682,Centric Action,Floorwalker,Basse, 27/08/2026 à 09:20, 27/08/2026 à 09:22,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Floorwalker,27/08/2026 09:20:00,27/08/2026 09:22:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804686,Centric Action,Installation,Basse, 27/08/2026 à 09:24, 27/08/2026 à 09:26,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,27/08/2026 09:24:00,27/08/2026 09:26:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804690,Centric Action,Handover,Basse, 27/08/2026 à 09:28, 27/08/2026 à 09:30,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,27/08/2026 09:28:00,27/08/2026 09:30:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804691,Centric Action,Opening Assistance,Basse, 27/08/2026 à 09:32, 27/08/2026 à 09:34,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,27/08/2026 09:32:00,27/08/2026 09:34:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804703,Adopt,Maintenance,Basse, 27/08/2026 à 09:40, 27/08/2026 à 09:44,4min,Sofiane Aoues,"4,00",ADOPT,Maintenance,27/08/2026 09:40:00,27/08/2026 09:44:00,9,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804713,Centric Action,Floorwalker,Basse, 27/08/2026 à 10:10, 27/08/2026 à 10:13,3min,Sofiane Aoues,"3,00",CENTRIC ACTION,Floorwalker,27/08/2026 10:10:00,27/08/2026 10:13:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804717,Centric Action,Installation,Basse, 27/08/2026 à 10:13, 27/08/2026 à 10:15,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Installation,27/08/2026 10:13:00,27/08/2026 10:15:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804720,Centric Action,Handover,Basse, 27/08/2026 à 10:17, 27/08/2026 à 10:19,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Handover,27/08/2026 10:17:00,27/08/2026 10:19:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804721,Centric Action,Opening Assistance,Basse, 27/08/2026 à 10:19, 27/08/2026 à 10:21,2min,Sofiane Aoues,"2,00",CENTRIC ACTION,Opening Assistance,27/08/2026 10:19:00,27/08/2026 10:21:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804726,Etam ,Swap Transporteur,Basse, 27/08/2026 à 10:30, 27/08/2026 à 10:33,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,27/08/2026 10:30:00,27/08/2026 10:33:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804727,Aem Soft ,Intervention J+1,Basse, 27/08/2026 à 10:34, 27/08/2026 à 10:37,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,27/08/2026 10:34:00,27/08/2026 10:37:00,10,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804744,But,Maintenance ,Basse, 27/08/2026 à 11:03, 27/08/2026 à 11:06,3min,Sofiane Aoues,"3,00",BUT,Maintenance,27/08/2026 11:03:00,27/08/2026 11:06:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804751,Aem Soft ,Intervention J+1,Basse, 27/08/2026 à 11:15, 27/08/2026 à 11:17,2min,Sofiane Aoues,"2,00",AEM SOFT,Intervention J+1,27/08/2026 11:15:00,27/08/2026 11:17:00,11,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804770,Etam,Envoi Matériel,Basse, 27/08/2026 à 12:20, 27/08/2026 à 12:22,2min,Sofiane Aoues,"2,00",ETAM,Envoi Matériel,27/08/2026 12:20:00,27/08/2026 12:22:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804775,Etam,Fermeture Définitive,Basse, 27/08/2026 à 12:30, 27/08/2026 à 12:32,2min,Sofiane Aoues,"2,00",ETAM,Fermeture Définitive,27/08/2026 12:30:00,27/08/2026 12:32:00,12,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804816,But,Maintenance,Basse, 27/08/2026 à 14:05, 27/08/2026 à 14:07,2min,Sofiane Aoues,"2,00",BUT,Maintenance,27/08/2026 14:05:00,27/08/2026 14:07:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804819,Amplifon,Envoi Matériel,Basse, 27/08/2026 à 14:10, 27/08/2026 à 14:12,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,27/08/2026 14:10:00,27/08/2026 14:12:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804825,Innovorder,Intervention sur Site,Basse, 27/08/2026 à 14:20, 27/08/2026 à 14:25,5min,Sofiane Aoues,"5,00",INNOVORDER,Intervention sur Site,27/08/2026 14:20:00,27/08/2026 14:25:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804837,Adopt,Installation,Basse, 27/08/2026 à 14:55, 27/08/2026 à 15:00,5min,Sofiane Aoues,"5,00",ADOPT,Installation,27/08/2026 14:55:00,27/08/2026 15:00:00,14,jeudi,,,,,,,,,,Sofiane Aoues
+27/08/2026,P260804847,Pos Service,Maintenance,Basse, 27/08/2026 à 16:00, 27/08/2026 à 16:03,3min,Sofiane Aoues,"3,00",POS SERVICE,Maintenance,27/08/2026 16:00:00,27/08/2026 16:03:00,16,jeudi,,,,,,,,,,Sofiane Aoues
+28/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+28/08/2026,P260804927,Adopt,Maintenance,Basse, 28/08/2026 à 09:00, 28/08/2026 à 09:03,3min,Sofiane Aoues,"3,00",ADOPT,Maintenance,28/08/2026 09:00:00,28/08/2026 09:03:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804941,Adopt,Installation,Basse, 28/08/2026 à 09:25, 28/08/2026 à 09:29,4min,Sofiane Aoues,"4,00",ADOPT,Installation,28/08/2026 09:25:00,28/08/2026 09:29:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804948,Amplifon,Intervention sur Site,Basse, 28/08/2026 à 09:50, 28/08/2026 à 09:54,4min,Sofiane Aoues,"4,00",AMPLIFON,Intervention sur Site,28/08/2026 09:50:00,28/08/2026 09:54:00,9,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804957,Adopt,Installation,Basse, 28/08/2026 à 10:10, 28/08/2026 à 10:13,3min,Sofiane Aoues,"3,00",ADOPT,Installation,28/08/2026 10:10:00,28/08/2026 10:13:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804960,Shoppertrak,Maintenance,Basse, 28/08/2026 à 10:16, 28/08/2026 à 10:20,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,28/08/2026 10:16:00,28/08/2026 10:20:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804967,Shoppertrak,Maintenance,Basse, 28/08/2026 à 10:20, 28/08/2026 à 10:24,4min,Sofiane Aoues,"4,00",SHOPPERTRAK,Maintenance,28/08/2026 10:20:00,28/08/2026 10:24:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804975,Etam,Swap Transporteur,Basse, 28/08/2026 à 10:35, 28/08/2026 à 10:38,3min,Sofiane Aoues,"3,00",ETAM,Swap Transporteur,28/08/2026 10:35:00,28/08/2026 10:38:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260804985,Pixel Inspiration,Maintenance,Basse, 28/08/2026 à 10:45, 28/08/2026 à 10:49,4min,Sofiane Aoues,"4,00",PIXEL INSPIRATION,Maintenance,28/08/2026 10:45:00,28/08/2026 10:49:00,10,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026, P260804996,Aem Soft,Intervention J+1,Basse, 28/08/2026 à 11:02, 28/08/2026 à 11:05,3min,Sofiane Aoues,"3,00",AEM SOFT,Intervention J+1,28/08/2026 11:02:00,28/08/2026 11:05:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260805010,Etam,Swap Transporteur,Basse, 28/08/2026 à 11:26, 28/08/2026 à 11:30,4min,Sofiane Aoues,"4,00",ETAM,Swap Transporteur,28/08/2026 11:26:00,28/08/2026 11:30:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+28/08/2026,P260805012,Etam,Fermeture Provisoire,Basse, 28/08/2026 à 11:30, 28/08/2026 à 11:33,3min,Sofiane Aoues,"3,00",ETAM,Fermeture Provisoire,28/08/2026 11:30:00,28/08/2026 11:33:00,11,vendredi,,,,,,,,,,Sofiane Aoues
+31/08/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+31/08/2026,P260805304,Axe E-Santé,Remplacement,Basse,31/08/2026 à 9:15,31/08/2026 à 9:21,6min,Sofiane Aoues,"6,00",AXE E-SANTE,Remplacement Matériel,31/08/2026 09:15,,9,lundi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805306,Amplifon,Envoi Matériel,Basse,31/08/2026 à 9:25,31/08/2026 à 9:27,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,31/08/2026 09:25,,9,lundi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805261,Oxhoo,Intervention J+1,Basse,31/08/2026 à 9:50,31/08/2026 à 9:53,3min,Sofiane Aoues,"3,00",OXHOO,Intervention J+1,31/08/2026 09:50,,9,lundi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805339,Axe E-Santé,Remplacement,Basse,31/08/2026 à 10:05,31/08/2026 à 10:10,5min,Sofiane Aoues,"5,00",AXE E-SANTE,Remplacement Matériel,31/08/2026 10:05,,10,lundi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805405,Etam,Fermeture Définitive,Basse,31/08/2026 à 11:50,31/08/2026 à 11:53,3min,Sofiane Aoues,"3,00",ETAM,Fermeture Définitive,31/08/2026 11:50,,11,lundi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805423,Amplifon,Envoi Matériel,Basse,31/08/2026 à 12:47,31/08/2026 à 12:50,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,01/09/2026 11:50,,11,mardi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805514,Adopt,Installation,Basse,31/08/2026 à 15:10,31/08/2026 à 15:14,4min,Sofiane Aoues,"4,00",ADOPT,Installation,02/09/2026 11:50,,11,mercredi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805520,Adopt,Installation,Basse,31/08/2026 à 15:15,31/08/2026 à 15:19,4min,Sofiane Aoues,"4,00",ADOPT,Installation,03/09/2026 11:50,,11,jeudi,,,,,,,,,,Sofiane Aoues
+31/08/2026,P260805525,Adopt,Installation,Basse,31/08/2026 à 15:20,31/08/2026 à 15:24,4min,Sofiane Aoues,"4,00",ADOPT,Installation,04/09/2026 11:50,,11,vendredi,,,,,,,,,,Sofiane Aoues
+01/09/2026,,,,,,,,,,,,05/09/2026 11:50,,11,samedi,,,,,,,,,,
+01/09/2026,P260900091,Amplifon,Envoi Matériel,Basse,01/09/2026 à 09:40,01/09/2026 à 09:43,3min,Sofiane Aoues,"3,00",AMPLIFON,Envoi Matériel,06/09/2026 11:50,,11,dimanche,,,,,,,,,,Sofiane Aoues
+01/09/2026,P260900097,Amplifon,Envoi Matériel,Basse,01/09/2026 à 09:43,01/09/2026 à 09:45,2min,Sofiane Aoues,"2,00",AMPLIFON,Envoi Matériel,07/09/2026 11:50,,11,lundi,,,,,,,,,,Sofiane Aoues
+01/09/2026,P260900103,Pos Service ,Maintenance,Basse,01/09/2026 à 09:45,01/09/2026 à 09:49,4min,Sofiane Aoues,"4,00",POS SERVICE,Maintenance,08/09/2026 11:50,,11,mardi,,,,,,,,,,Sofiane Aoues
+01/09/2026,P260900110,Innovorder,Envoi Matériel,Basse,01/09/2026 à 09:50,01/09/2026 à 09:53,3min,Sofiane Aoues,"3,00",INNOVORDER,Envoi Matériel,09/09/2026 11:50,,11,mercredi,,,,,,,,,,Sofiane Aoues
+01/09/2026,P260900119,Pixel Inspiration,Maintenance,Basse,01/09/2026 à 09:55,01/09/2026 à 09:59,4min,Sofiane Aoues,"4,00",PIXEL INSPIRATION,Maintenance,10/09/2026 11:50,,11,jeudi,,,,,,,,,,Sofiane Aoues
+01/09/2026,P260900274,Aem Soft,Intervention J+1,Basse,01/09/2026 à 11:15,01/09/2026 à 11:17,2min,Sofiane Aoues,,AEM SOFT,Intervention J+1,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+02/09/2026,P260900474 ,L'Addition,Installation,Basse,02/09/2026 à 09:08,02/09/2026 à 09:12,4min,Sofiane Aoues,,L'ADDITION,Installation,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900518,Adopt,Installation,Basse,02/09/2026 à 09:30,02/09/2026 à 09:33,3min,Sofiane Aoues,,ADOPT,Installation,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900541,Shoppertrak,Maintenance,Basse,02/09/2026 à 10:00,02/09/2026 à 10:02,2min,Sofiane Aoues,,SHOPPERTRAK,Maintenance,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900569,Etam,Intervention sur Site,Basse,02/09/2026 à 11:00,02/09/2026 à 11:03,3min,Sofiane Aoues,,ETAM,Intervention sur Site,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900584,Amplifon,Envoi Matériel,Basse,02/09/2026 à 11:37,02/09/2026 à 11:40,3min,Sofiane Aoues,,AMPLIFON,Envoi Matériel,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900712,Etam,Intervention sur Site,Basse,02/09/2026 à 15:25,02/09/2026 à 15:29,4min,Sofiane Aoues,,ETAM,Intervention sur Site,,,,,,,,,,,,,,Sofiane Aoues
+02/09/2026,P260900721,Pos Service,Installation,Basse,02/09/2026 à 16:00,02/09/2026 à 16:03,3min,Sofiane Aoues,,POS SERVICE,Installation,,,,,,,,,,,,,,
+02/09/2026,P260900721,Pos Service,Installation,Basse,02/09/2026 à 16:03,02/09/2026 à 16:06,3min,Sofiane Aoues,,POS SERVICE,Installation,,,,,,,,,,,,,,
+02/09/2026,P260900732,Etam,Intervention sur Site,Basse,02/09/2026 à 16:30,02/09/2026 à 16:33,3min,Sofiane Aoues,,ETAM,Intervention sur Site,,,,,,,,,,,,,,
+03/09/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+03/09/2026,P260900845,Aem Soft ,Intervention J+1,Basse,03/09/2026 à 10:00,03/09/2026 à 10:02,2min,Sofiane Aoues,,AEM SOFT,Intervention J+1,,,,,,,,,,,,,,
+03/09/2026,P260900820,Amplifon,Envoi Matériel,Basse,03/09/2026 à 10:05,03/09/2026 à 10:07,2min,Sofiane Aoues,,AMPLIFON,Envoi Matériel,,,,,,,,,,,,,,
+03/09/2026,P260900883,But,Maintenance,Basse,03/09/2026 à 10:55,03/09/2026 à 10:57,2min,Sofiane Aoues,,BUT,Maintenance,,,,,,,,,,,,,,
+03/09/2026,P260802270,Etam,Ramassage Matériel,Basse,03/09/2026 à 11:55,03/09/2026 à 11:58,2min,Sofiane Aoues,,ETAM,Ramassage Matériel,,,,,,,,,,,,,,
+03/09/2026,P260900913,Pos Service,Installation,Basse,03/09/2026 à 12:10,03/09/2026 à 12:13,3min,Sofiane Aoues,,POS SERVICE,Installation,,,,,,,,,,,,,,
+03/09/2026,P260900991,Pixel Inspiration,Maintenance,Basse,03/09/2026 à 14:30,03/09/2026 à 14:33,3min,Sofiane Aoues,,PIXEL INSPIRATION,Maintenance,,,,,,,,,,,,,,
+03/09/2026,P260901010,Pos Service,Installation,Basse,03/09/2026 à 15:10,03/09/2026 à 15:13,3min,Sofiane Aoues,,POS SERVICE,Installation,,,,,,,,,,,,,,
+03/09/2026,P260901013,Pos Service,Installation,Basse,03/09/2026 à 15:15,03/09/2026 à 15:18,3min,Sofiane Aoues,,POS SERVICE,Installation,,,,,,,,,,,,,,
+14/09/2026,,,,,,,,,,,,,,,,,,,,,,,,,
+14/09/2026,P260903270,Etam,Swap Transporteur,Basse,14/09/2026 à 15:32,14/09/2026 à 15:35,3min,Sofiane Aoues,,,,,,,,,,,,,,,,,
