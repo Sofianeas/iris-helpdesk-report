@@ -1,0 +1,312 @@
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  /* =========================================================
+     1. SECTIONS REPLIABLES
+     ========================================================= */
+
+  const sectionsToCollapse = [
+    "configuration-et-imports",
+    "chargement-des-données",
+    "audit-et-qualité-des-données",
+    "nettoyage-des-données"
+  ];
+
+
+  sectionsToCollapse.forEach(function (id) {
+
+    const heading = document.querySelector(
+      `h2[data-anchor-id="${id}"]`
+    );
+
+    if (!heading) return;
+
+    const section = heading.closest("section");
+
+    if (!section) return;
+
+    if (section.dataset.collapsible === "true") return;
+
+    section.dataset.collapsible = "true";
+
+
+    /* ---------------------------------------------------------
+       Bouton
+       --------------------------------------------------------- */
+
+    const button = document.createElement("button");
+
+    button.className = "section-collapse-button";
+
+    button.type = "button";
+
+    button.setAttribute(
+      "aria-expanded",
+      "false"
+    );
+
+
+    const title = heading.textContent.trim();
+
+
+    button.innerHTML = `
+      <span class="collapse-arrow">▶</span>
+      <span>${title}</span>
+    `;
+
+
+    /* ---------------------------------------------------------
+       Masquer le titre original
+       --------------------------------------------------------- */
+
+    heading.style.display = "none";
+
+
+    /* ---------------------------------------------------------
+       Contenu de la section
+       --------------------------------------------------------- */
+
+    const content = document.createElement("div");
+
+    content.className = "section-collapse-content";
+
+    content.hidden = true;
+
+
+    while (heading.nextSibling) {
+      content.appendChild(heading.nextSibling);
+    }
+
+
+    section.appendChild(button);
+
+    section.appendChild(content);
+
+
+    /* ---------------------------------------------------------
+       Ouverture / fermeture
+       --------------------------------------------------------- */
+
+    button.addEventListener("click", function () {
+
+      const isOpen =
+        button.getAttribute("aria-expanded") === "true";
+
+
+      button.setAttribute(
+        "aria-expanded",
+        String(!isOpen)
+      );
+
+
+      content.hidden = isOpen;
+
+
+      const arrow =
+        button.querySelector(".collapse-arrow");
+
+
+      arrow.textContent =
+        isOpen ? "▶" : "▼";
+
+
+      /* -------------------------------------------------------
+         Quand on ouvre une section, Plotly doit recalculer
+         sa largeur car le graphique était initialement caché.
+         ------------------------------------------------------- */
+
+      if (!isOpen) {
+
+        setTimeout(function () {
+
+          resizePlotlyCharts();
+
+        }, 100);
+
+        setTimeout(function () {
+
+          resizePlotlyCharts();
+
+        }, 300);
+
+      }
+
+    });
+
+  });
+
+
+  /* =========================================================
+     2. PLOTLY — RESPONSIVE
+     ========================================================= */
+
+  function resizePlotlyCharts() {
+
+    if (typeof Plotly === "undefined") {
+      return;
+    }
+
+
+    document
+      .querySelectorAll(".js-plotly-plot")
+      .forEach(function (plot) {
+
+        try {
+
+          /* ---------------------------------------------------
+             Forcer Plotly à utiliser la taille du conteneur
+             --------------------------------------------------- */
+
+          Plotly.relayout(
+            plot,
+            {
+              autosize: true
+            }
+          );
+
+
+          /* ---------------------------------------------------
+             Recalculer immédiatement les dimensions
+             --------------------------------------------------- */
+
+          Plotly.Plots.resize(plot);
+
+
+        } catch (e) {
+
+          /* Graphique pas encore complètement initialisé */
+
+        }
+
+      });
+
+  }
+
+
+  /* =========================================================
+     3. PREMIER REDIMENSIONNEMENT
+     ========================================================= */
+
+  setTimeout(
+    resizePlotlyCharts,
+    300
+  );
+
+
+  setTimeout(
+    resizePlotlyCharts,
+    1000
+  );
+
+
+  setTimeout(
+    resizePlotlyCharts,
+    2000
+  );
+
+
+  /* =========================================================
+     4. REDIMENSIONNEMENT QUAND LA FENÊTRE CHANGE
+     ========================================================= */
+
+  let resizeTimeout;
+
+
+  window.addEventListener(
+    "resize",
+    function () {
+
+      clearTimeout(resizeTimeout);
+
+
+      resizeTimeout = setTimeout(
+        resizePlotlyCharts,
+        100
+      );
+
+    }
+  );
+
+
+  /* =========================================================
+     5. RESIZE OBSERVER
+     
+     Permet de détecter automatiquement quand le conteneur
+     d'un graphique change de largeur.
+     ========================================================= */
+
+  if (typeof ResizeObserver !== "undefined") {
+
+    const observer =
+      new ResizeObserver(function () {
+
+        resizePlotlyCharts();
+
+      });
+
+
+    document
+      .querySelectorAll(
+        ".cell-output-display, .cell-output, .section-collapse-content"
+      )
+      .forEach(function (element) {
+
+        observer.observe(element);
+
+      });
+
+  }
+
+
+  /* =========================================================
+     6. OBSERVER DES SECTIONS REPLIABLES
+     
+     Lorsqu'une section passe de cachée à visible,
+     on force une nouvelle adaptation des graphiques.
+     ========================================================= */
+
+  const sectionObserver =
+    new MutationObserver(function () {
+
+      setTimeout(
+        resizePlotlyCharts,
+        100
+      );
+
+    });
+
+
+  document
+    .querySelectorAll(".section-collapse-content")
+    .forEach(function (element) {
+
+      sectionObserver.observe(
+        element,
+        {
+          attributes: true,
+          attributeFilter: ["hidden", "style"]
+        }
+      );
+
+    });
+
+
+  /* =========================================================
+     7. FORCE UNE NOUVELLE ADAPTATION APRÈS CHARGEMENT
+     ========================================================= */
+
+  window.addEventListener(
+    "load",
+    function () {
+
+      setTimeout(
+        resizePlotlyCharts,
+        500
+      );
+
+    }
+  );
+
+
+});
+</script>

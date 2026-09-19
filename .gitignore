@@ -1,0 +1,7 @@
+/.quarto/
+
+**/*.quarto_ipynb
+
+# Fichiers HTML générés localement
+notebook/HelpDesk_SLA_Report.html
+notebook/HelpDesk_SLA_Report_files/

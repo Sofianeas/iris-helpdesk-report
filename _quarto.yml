@@ -1,0 +1,14 @@
+project:
+  type: default
+
+format:
+  html:
+    code-fold: true
+    code-summary: "Afficher le code source Python"
+    theme: cosmo
+    toc: true
+    toc-location: left
+    toc-depth: 3
+    embed-resources: false
+    css: collapse-sections.css
+    include-after-body: collapse-sections.html

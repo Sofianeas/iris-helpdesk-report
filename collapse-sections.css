@@ -1,0 +1,1703 @@
+/* =========================================================
+   IRIS HELP DESK — PROFESSIONAL REPORT
+   Corporate Data / IT Analytics Theme
+   ========================================================= */
+
+
+/* =========================================================
+   1. VARIABLES
+   ========================================================= */
+
+:root {
+
+  --iris-navy: #102a43;
+  --iris-blue: #2563eb;
+  --iris-blue-light: #3b82f6;
+  --iris-cyan: #0ea5e9;
+
+  --iris-success: #16a34a;
+  --iris-warning: #f59e0b;
+  --iris-danger: #dc2626;
+
+  --iris-bg: #f6f8fb;
+  --iris-card: #ffffff;
+  --iris-border: #e2e8f0;
+
+  --iris-text: #172033;
+  --iris-muted: #64748b;
+
+  --iris-shadow:
+    0 4px 15px rgba(15, 23, 42, 0.06);
+
+  --iris-shadow-hover:
+    0 8px 24px rgba(15, 23, 42, 0.10);
+
+  --iris-radius: 10px;
+
+}
+
+
+/* =========================================================
+   2. GLOBAL PAGE
+   ========================================================= */
+
+body {
+
+  background:
+    var(--iris-bg);
+
+  color:
+    var(--iris-text);
+
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+
+  line-height:
+    1.65;
+
+}
+
+
+/* =========================================================
+   3. GLOBAL REPORT WIDTH
+   ========================================================= */
+
+#quarto-content {
+
+  width:
+    100% !important;
+
+  max-width:
+    none !important;
+
+  margin:
+    0 !important;
+
+  padding-left:
+    0 !important;
+
+  padding-right:
+    0 !important;
+
+}
+
+
+/* =========================================================
+   4. MAIN QUARTO LAYOUT
+   ========================================================= */
+
+.page-columns {
+
+  width:
+    100% !important;
+
+  max-width:
+    none !important;
+
+  display:
+    grid !important;
+
+  grid-template-columns:
+    220px
+    minmax(0, 1fr) !important;
+
+  column-gap:
+    35px;
+
+  margin:
+    0 !important;
+
+  padding:
+    0 !important;
+
+}
+
+
+/* =========================================================
+   5. TABLE OF CONTENTS
+   ========================================================= */
+
+#TOC {
+
+  width:
+    205px !important;
+
+  max-width:
+    205px !important;
+
+  margin-left:
+    0 !important;
+
+  margin-right:
+    0 !important;
+
+  padding-left:
+    15px !important;
+
+  padding-right:
+    10px !important;
+
+  font-size:
+    0.88rem;
+
+}
+
+
+/* TOC links */
+
+#TOC .nav-link {
+
+  color:
+    #64748b;
+
+  padding-top:
+    0.3rem;
+
+  padding-bottom:
+    0.3rem;
+
+  padding-left:
+    0.55rem;
+
+  transition:
+    all 0.15s ease;
+
+}
+
+
+#TOC .nav-link:hover {
+
+  color:
+    var(--iris-blue);
+
+  background:
+    #eff6ff;
+
+}
+
+
+#TOC .nav-link.active {
+
+  color:
+    var(--iris-blue);
+
+  font-weight:
+    650;
+
+  border-left:
+    3px solid var(--iris-blue);
+
+}
+
+
+/* =========================================================
+   6. MAIN REPORT CONTENT
+   ========================================================= */
+
+.page-columns .content {
+
+  width:
+    100% !important;
+
+  max-width:
+    none !important;
+
+  min-width:
+    0 !important;
+
+  margin:
+    0 !important;
+
+  padding-left:
+    0 !important;
+
+  padding-right:
+    20px !important;
+
+}
+
+
+#quarto-document-content {
+
+  width:
+    100% !important;
+
+  max-width:
+    none !important;
+
+  margin:
+    0 !important;
+
+}
+
+
+/* =========================================================
+   7. HEADINGS
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4 {
+
+  color:
+    var(--iris-navy);
+
+  font-weight:
+    650;
+
+  letter-spacing:
+    -0.02em;
+
+}
+
+
+h1 {
+
+  font-size:
+    2.35rem;
+
+  margin-top:
+    1.5rem;
+
+  margin-bottom:
+    1rem;
+
+}
+
+
+h2 {
+
+  margin-top:
+    2.5rem;
+
+  padding-bottom:
+    0.55rem;
+
+  border-bottom:
+    2px solid var(--iris-border);
+
+}
+
+
+h3 {
+
+  margin-top:
+    2rem;
+
+}
+
+
+/* Accent sous les H2 */
+
+h2::after {
+
+  content:
+    "";
+
+  display:
+    block;
+
+  width:
+    45px;
+
+  height:
+    3px;
+
+  margin-top:
+    8px;
+
+  background:
+    var(--iris-blue);
+
+  border-radius:
+    10px;
+
+}
+
+
+/* =========================================================
+   8. REPORT HEADER
+   ========================================================= */
+
+#quarto-content > h1:first-child {
+
+  padding:
+    1.5rem 1.75rem;
+
+  background:
+    linear-gradient(
+      135deg,
+      #102a43 0%,
+      #173f66 55%,
+      #2563eb 100%
+    );
+
+  color:
+    white;
+
+  border-radius:
+    14px;
+
+  box-shadow:
+    0 10px 30px rgba(16, 42, 67, 0.15);
+
+}
+
+
+#quarto-content > h1:first-child::after {
+
+  display:
+    none;
+
+}
+
+
+/* =========================================================
+   9. LINKS
+   ========================================================= */
+
+a {
+
+  color:
+    var(--iris-blue);
+
+  font-weight:
+    500;
+
+  text-decoration:
+    none;
+
+}
+
+
+a:hover {
+
+  color:
+    var(--iris-blue-light);
+
+  text-decoration:
+    underline;
+
+}
+
+
+/* =========================================================
+   10. COLLAPSIBLE TECHNICAL SECTIONS
+   ========================================================= */
+
+.section-collapse-button {
+
+  width:
+    100%;
+
+  display:
+    flex;
+
+  align-items:
+    center;
+
+  gap:
+    12px;
+
+  margin-top:
+    1.75rem;
+
+  margin-bottom:
+    1rem;
+
+  padding:
+    0.9rem 1.1rem;
+
+  border:
+    1px solid var(--iris-border);
+
+  border-left:
+    4px solid var(--iris-blue);
+
+  border-radius:
+    var(--iris-radius);
+
+  background:
+    linear-gradient(
+      90deg,
+      #ffffff 0%,
+      #f8fafc 100%
+    );
+
+  color:
+    var(--iris-navy);
+
+  font-size:
+    1.25rem;
+
+  font-weight:
+    650;
+
+  text-align:
+    left;
+
+  cursor:
+    pointer;
+
+  box-shadow:
+    var(--iris-shadow);
+
+  transition:
+    all 0.2s ease;
+
+}
+
+
+.section-collapse-button:hover {
+
+  background:
+    linear-gradient(
+      90deg,
+      #eff6ff 0%,
+      #ffffff 100%
+    );
+
+  border-left-color:
+    var(--iris-blue-light);
+
+  box-shadow:
+    var(--iris-shadow-hover);
+
+  transform:
+    translateY(-1px);
+
+}
+
+
+.section-collapse-button:focus-visible {
+
+  outline:
+    3px solid rgba(37, 99, 235, 0.25);
+
+  outline-offset:
+    2px;
+
+}
+
+
+/* Arrow */
+
+.collapse-arrow {
+
+  display:
+    inline-flex;
+
+  align-items:
+    center;
+
+  justify-content:
+    center;
+
+  width:
+    24px;
+
+  height:
+    24px;
+
+  color:
+    var(--iris-blue);
+
+  font-size:
+    0.85rem;
+
+  transition:
+    transform 0.2s ease;
+
+}
+
+
+/* Section content */
+
+.section-collapse-content {
+
+  width:
+    100% !important;
+
+  max-width:
+    none !important;
+
+  min-width:
+    0 !important;
+
+  margin:
+    0 0 2rem 0;
+
+  padding:
+    0.25rem 0.25rem 0.5rem 0.25rem;
+
+  box-sizing:
+    border-box;
+
+  overflow-x:
+    visible;
+
+}
+
+
+/* =========================================================
+   11. CODE BLOCKS
+   ========================================================= */
+
+div.sourceCode {
+
+  margin:
+    1rem 0 1.5rem 0;
+
+  border:
+    1px solid #dbe3ee;
+
+  border-radius:
+    9px;
+
+  overflow:
+    hidden;
+
+  box-shadow:
+    0 3px 12px rgba(15, 23, 42, 0.05);
+
+}
+
+
+pre.sourceCode {
+
+  margin:
+    0;
+
+  padding:
+    1rem 1.15rem;
+
+  background:
+    #f8fafc;
+
+  font-size:
+    0.88rem;
+
+  line-height:
+    1.55;
+
+}
+
+
+/* Code fold */
+
+.code-fold-btn {
+
+  border-radius:
+    7px !important;
+
+  border:
+    1px solid var(--iris-border) !important;
+
+  background:
+    #ffffff !important;
+
+  color:
+    var(--iris-blue) !important;
+
+  font-weight:
+    600 !important;
+
+  transition:
+    all 0.2s ease;
+
+}
+
+
+.code-fold-btn:hover {
+
+  background:
+    #eff6ff !important;
+
+  border-color:
+    #bfdbfe !important;
+
+}
+
+
+/* =========================================================
+   12. TABLES
+   ========================================================= */
+
+/*
+   Les tables conservent leur largeur compacte,
+   mais leur contenu reste entièrement accessible.
+*/
+
+.table,
+.dataframe,
+table.table {
+
+  width:
+    78% !important;
+
+  max-width:
+    78% !important;
+
+  margin-left:
+    auto !important;
+
+  margin-right:
+    auto !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/* Table principale */
+
+.table {
+
+  background:
+    var(--iris-card);
+
+  border:
+    1px solid var(--iris-border);
+
+  border-radius:
+    var(--iris-radius);
+
+  overflow:
+    hidden;
+
+  box-shadow:
+    var(--iris-shadow);
+
+}
+
+
+/* Header */
+
+.table thead th {
+
+  background:
+    #f1f5f9;
+
+  color:
+    var(--iris-navy);
+
+  font-weight:
+    650;
+
+  border-bottom:
+    2px solid var(--iris-border);
+
+}
+
+
+/* Rows */
+
+.table tbody tr {
+
+  transition:
+    background-color 0.15s ease;
+
+}
+
+
+.table tbody tr:hover {
+
+  background:
+    #eff6ff;
+
+}
+
+
+/* Cells */
+
+.table td,
+.table th {
+
+  padding:
+    0.7rem 0.85rem;
+
+  vertical-align:
+    middle;
+
+  box-sizing:
+    border-box;
+
+}
+
+
+/* =========================================================
+   13. PANDAS / DATAFRAME
+   ========================================================= */
+
+.dataframe {
+
+  border:
+    1px solid var(--iris-border);
+
+  border-radius:
+    8px;
+
+  overflow:
+    hidden;
+
+  box-shadow:
+    var(--iris-shadow);
+
+  background:
+    white;
+
+}
+
+
+.dataframe thead th {
+
+  background:
+    var(--iris-navy);
+
+  color:
+    white;
+
+  font-weight:
+    600;
+
+}
+
+
+.dataframe tbody tr:hover {
+
+  background:
+    #eff6ff;
+
+}
+
+
+/* =========================================================
+   14. OUTPUTS — CADRE UNIFIÉ
+   ========================================================= */
+
+/*
+   Tous les outputs du notebook utilisent le même
+   conteneur visuel :
+
+   - Plotly
+   - DataFrame
+   - tables
+   - Markdown
+   - texte
+   - images
+   - statistiques
+   - autres sorties Jupyter
+*/
+
+.cell-output {
+
+  width:
+    100% !important;
+
+  margin:
+    1.25rem 0 !important;
+
+}
+
+
+/*
+   Cadre commun à tous les outputs
+*/
+
+.cell-output-display {
+
+  width:
+    82% !important;
+
+  max-width:
+    82% !important;
+
+  min-width:
+    0 !important;
+
+  margin-left:
+    auto !important;
+
+  margin-right:
+    auto !important;
+
+  padding:
+    1rem !important;
+
+  background:
+    #ffffff;
+
+  border:
+    1px solid var(--iris-border);
+
+  border-radius:
+    10px;
+
+  box-shadow:
+    var(--iris-shadow);
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   Les contenus restent accessibles.
+   Une scrollbar apparaît uniquement si nécessaire.
+*/
+
+.cell-output-display {
+
+  overflow-x:
+    auto;
+
+}
+
+
+/* =========================================================
+   15. PLOTLY — CONFIGURATION PRINCIPALE
+   ========================================================= */
+
+/*
+   Tous les graphiques Plotly utilisent maintenant
+   exactement le même comportement.
+*/
+
+.cell-output-display:has(.js-plotly-plot) {
+
+  width:
+    82% !important;
+
+  max-width:
+    82% !important;
+
+  min-width:
+    0 !important;
+
+  margin-left:
+    auto !important;
+
+  margin-right:
+    auto !important;
+
+  padding:
+    1rem !important;
+
+  overflow:
+    visible !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   Plotly prend toute la largeur disponible
+   DANS son cadre.
+*/
+
+.plotly,
+.plotly-graph-div,
+.js-plotly-plot {
+
+  width:
+    100% !important;
+
+  max-width:
+    100% !important;
+
+  min-width:
+    0 !important;
+
+  margin:
+    0 !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   Conteneurs internes Plotly
+*/
+
+.js-plotly-plot .plot-container,
+.js-plotly-plot .svg-container {
+
+  width:
+    100% !important;
+
+  max-width:
+    100% !important;
+
+  min-width:
+    0 !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   SVG Plotly
+*/
+
+.js-plotly-plot .main-svg {
+
+  width:
+    100% !important;
+
+  max-width:
+    100% !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   Conteneur interne éventuel
+*/
+
+.js-plotly-plot > div {
+
+  width:
+    100% !important;
+
+  max-width:
+    100% !important;
+
+  min-width:
+    0 !important;
+
+  box-sizing:
+    border-box !important;
+
+}
+
+
+/*
+   Apparence du graphique.
+   Le cadre extérieur est celui de .cell-output-display.
+*/
+
+.js-plotly-plot {
+
+  border-radius:
+    6px;
+
+  box-shadow:
+    none !important;
+
+  transition:
+    none;
+
+}
+
+
+/* =========================================================
+   16. TABLES DANS LE CADRE COMMUN
+   ========================================================= */
+
+/*
+   Le conteneur du tableau occupe tout le cadre.
+   La table elle-même reste compacte.
+*/
+
+.cell-output-display:has(.dataframe),
+.cell-output-display:has(table) {
+
+  overflow-x:
+    auto !important;
+
+}
+
+
+/*
+   Le tableau reste centré dans son cadre.
+*/
+
+.cell-output-display .table,
+.cell-output-display .dataframe,
+.cell-output-display table {
+
+  margin-left:
+    auto !important;
+
+  margin-right:
+    auto !important;
+
+}
+
+
+/*
+   DataFrames pandas larges :
+   on autorise leur contenu à dépasser
+   uniquement horizontalement.
+*/
+
+.cell-output-display .dataframe {
+
+  min-width:
+    max-content;
+
+}
+
+
+/* =========================================================
+   17. MARKDOWN / TEXTE DANS LE CADRE COMMUN
+   ========================================================= */
+
+.cell-output-display p {
+
+  margin-top:
+    0.5rem;
+
+  margin-bottom:
+    0.75rem;
+
+}
+
+
+.cell-output-display p:first-child {
+
+  margin-top:
+    0;
+
+}
+
+
+.cell-output-display p:last-child {
+
+  margin-bottom:
+    0;
+
+}
+
+
+.cell-output-display ul,
+.cell-output-display ol {
+
+  margin-top:
+    0.5rem;
+
+  margin-bottom:
+    0.75rem;
+
+}
+
+
+/* =========================================================
+   18. OUTPUT TEXTE / STATISTIQUES
+   ========================================================= */
+
+.cell-output-display pre {
+
+  margin:
+    0 !important;
+
+  max-width:
+    100% !important;
+
+  overflow-x:
+    auto;
+
+  box-sizing:
+    border-box;
+
+}
+
+
+/* =========================================================
+   19. IMAGES DANS LES OUTPUTS
+   ========================================================= */
+
+.cell-output-display img {
+
+  max-width:
+    100% !important;
+
+  height:
+    auto !important;
+
+  display:
+    block;
+
+  margin-left:
+    auto;
+
+  margin-right:
+    auto;
+
+}
+
+
+/* =========================================================
+   20. CALLOUTS
+   ========================================================= */
+
+.callout {
+
+  border-radius:
+    var(--iris-radius);
+
+  box-shadow:
+    var(--iris-shadow);
+
+  border:
+    1px solid var(--iris-border);
+
+}
+
+
+/* =========================================================
+   21. BLOCKQUOTES
+   ========================================================= */
+
+blockquote {
+
+  margin:
+    1.5rem 0;
+
+  padding:
+    1rem 1.25rem;
+
+  border-left:
+    4px solid var(--iris-blue);
+
+  background:
+    #eff6ff;
+
+  border-radius:
+    0 8px 8px 0;
+
+  color:
+    #334155;
+
+}
+
+
+/* =========================================================
+   22. HORIZONTAL RULES
+   ========================================================= */
+
+hr {
+
+  margin:
+    2.5rem 0;
+
+  border:
+    0;
+
+  border-top:
+    1px solid var(--iris-border);
+
+}
+
+
+/* =========================================================
+   23. NAVBAR
+   ========================================================= */
+
+.navbar {
+
+  background:
+    var(--iris-navy) !important;
+
+  box-shadow:
+    0 2px 12px rgba(15, 23, 42, 0.12);
+
+}
+
+
+.navbar-brand,
+.navbar .nav-link {
+
+  color:
+    white !important;
+
+}
+
+
+.navbar .nav-link:hover {
+
+  color:
+    #bfdbfe !important;
+
+}
+
+
+/* =========================================================
+   24. SCROLLBAR
+   ========================================================= */
+
+::-webkit-scrollbar {
+
+  width:
+    9px;
+
+  height:
+    9px;
+
+}
+
+
+::-webkit-scrollbar-track {
+
+  background:
+    #f1f5f9;
+
+}
+
+
+::-webkit-scrollbar-thumb {
+
+  background:
+    #94a3b8;
+
+  border-radius:
+    10px;
+
+}
+
+
+::-webkit-scrollbar-thumb:hover {
+
+  background:
+    #64748b;
+
+}
+
+
+/* =========================================================
+   25. LARGE SCREENS
+   ========================================================= */
+
+@media (min-width: 1600px) {
+
+  .page-columns {
+
+    grid-template-columns:
+      220px
+      minmax(0, 1fr) !important;
+
+    column-gap:
+      40px;
+
+  }
+
+
+  #TOC {
+
+    width:
+      205px !important;
+
+    max-width:
+      205px !important;
+
+  }
+
+}
+
+
+/* =========================================================
+   26. MEDIUM SCREENS
+   ========================================================= */
+
+@media (max-width: 1200px) {
+
+  .page-columns {
+
+    grid-template-columns:
+      190px
+      minmax(0, 1fr) !important;
+
+    column-gap:
+      25px;
+
+  }
+
+
+  #TOC {
+
+    width:
+      180px !important;
+
+    max-width:
+      180px !important;
+
+  }
+
+
+  /*
+     Plotly uniquement :
+     on élargit légèrement le cadre
+     sur les écrans moyens.
+  */
+
+  .cell-output-display:has(.js-plotly-plot) {
+
+    width:
+      90% !important;
+
+    max-width:
+      90% !important;
+
+  }
+
+
+  /*
+     Les autres outputs gardent également
+     un cadre plus large.
+  */
+
+  .cell-output-display {
+
+    width:
+      90% !important;
+
+    max-width:
+      90% !important;
+
+  }
+
+
+  /*
+     Tables
+  */
+
+  .table,
+  .dataframe,
+  table.table {
+
+    width:
+      88% !important;
+
+    max-width:
+      88% !important;
+
+  }
+
+}
+
+
+/* =========================================================
+   27. MOBILE
+   ========================================================= */
+
+@media (max-width: 900px) {
+
+  .page-columns {
+
+    display:
+      block !important;
+
+  }
+
+
+  #TOC {
+
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
+
+    margin-bottom:
+      1.5rem;
+
+    padding-left:
+      15px !important;
+
+    padding-right:
+      15px !important;
+
+  }
+
+
+  .page-columns .content {
+
+    width:
+      100% !important;
+
+    padding-right:
+      15px !important;
+
+  }
+
+
+  /*
+     Tous les outputs prennent
+     toute la largeur disponible.
+  */
+
+  .cell-output-display {
+
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
+
+    padding:
+      0.75rem !important;
+
+  }
+
+
+  /*
+     Plotly
+  */
+
+  .cell-output-display:has(.js-plotly-plot) {
+
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
+
+  }
+
+
+  /*
+     Tables
+  */
+
+  .table,
+  .dataframe,
+  table.table {
+
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
+
+  }
+
+
+  /*
+     Titres
+  */
+
+  h1 {
+
+    font-size:
+      1.8rem;
+
+  }
+
+
+  h2 {
+
+    font-size:
+      1.35rem;
+
+  }
+
+
+  /*
+     Sections repliables
+  */
+
+  .section-collapse-button {
+
+    font-size:
+      1.05rem;
+
+    padding:
+      0.75rem 0.85rem;
+
+  }
+
+
+  /*
+     Header
+  */
+
+  #quarto-content > h1:first-child {
+
+    padding:
+      1.15rem;
+
+  }
+
+}
+
+
+/* =========================================================
+   28. PRINT
+   ========================================================= */
+
+@media print {
+
+  body {
+
+    background:
+      white;
+
+  }
+
+
+  .section-collapse-content {
+
+    display:
+      block !important;
+
+  }
+
+
+  .section-collapse-button {
+
+    box-shadow:
+      none;
+
+    background:
+      white;
+
+    color:
+      black;
+
+  }
+
+
+  .cell-output-display {
+
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
+
+    box-shadow:
+      none;
+
+    border:
+      1px solid #cccccc;
+
+  }
+
+}
+
+/* =========================================================
+   FIX — GRAPHIQUES PLOTLY : CADRE PROPRE ET SANS DÉBORDEMENT
+   ========================================================= */
+
+/* Conteneur du graphique */
+.cell-output-display:has(.plotly-graph-div),
+.cell-output-display:has(.js-plotly-plot),
+.cell-output-display:has(.plot-container) {
+
+  width: 82% !important;
+  max-width: 82% !important;
+  min-width: 0 !important;
+
+  margin-left: auto !important;
+  margin-right: auto !important;
+
+  padding: 0 !important;
+
+  background: transparent !important;
+
+  border: none !important;
+  border-radius: 0 !important;
+
+  box-shadow: none !important;
+
+  box-sizing: border-box !important;
+
+  overflow: visible !important;
+}
+
+
+/* Graphique Plotly lui-même */
+.cell-output-display:has(.plotly-graph-div) .plotly,
+.cell-output-display:has(.plotly-graph-div) .plotly-graph-div,
+.cell-output-display:has(.plotly-graph-div) .js-plotly-plot,
+.cell-output-display:has(.js-plotly-plot) .plotly,
+.cell-output-display:has(.js-plotly-plot) .plotly-graph-div,
+.cell-output-display:has(.js-plotly-plot) .js-plotly-plot {
+
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+
+  margin: 0 auto !important;
+  padding: 0 !important;
+
+  box-sizing: border-box !important;
+
+  overflow: visible !important;
+}
+
+
+/* Conteneurs internes Plotly */
+.cell-output-display:has(.js-plotly-plot) .plot-container,
+.cell-output-display:has(.js-plotly-plot) .svg-container {
+
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  box-sizing: border-box !important;
+}
+
+
+/* SVG Plotly */
+.cell-output-display:has(.js-plotly-plot) .main-svg {
+
+  width: 100% !important;
+  max-width: 100% !important;
+
+  box-sizing: border-box !important;
+}
+
+
+/* =========================================================
+   RESPONSIVE
+   ========================================================= */
+
+@media (max-width: 1200px) {
+
+  .cell-output-display:has(.plotly-graph-div),
+  .cell-output-display:has(.js-plotly-plot),
+  .cell-output-display:has(.plot-container) {
+
+    width: 90% !important;
+    max-width: 90% !important;
+
+  }
+
+}
+
+
+@media (max-width: 900px) {
+
+  .cell-output-display:has(.plotly-graph-div),
+  .cell-output-display:has(.js-plotly-plot),
+  .cell-output-display:has(.plot-container) {
+
+    width: 100% !important;
+    max-width: 100% !important;
+
+  }
+
+}
