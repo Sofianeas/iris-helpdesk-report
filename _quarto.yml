@@ -6,9 +6,8 @@ format:
     code-fold: true
     code-summary: "Afficher le code source Python"
     theme: cosmo
-    toc: true
-    toc-location: left
-    toc-depth: 3
+    toc: false
     embed-resources: false
+    plotly-connected: true
     css: collapse-sections.css
     include-after-body: collapse-sections.html
