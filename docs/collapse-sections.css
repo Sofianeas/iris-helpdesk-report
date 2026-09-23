@@ -80,10 +80,7 @@ body {
   margin:
     0 !important;
 
-  padding-left:
-    0 !important;
-
-  padding-right:
+  padding:
     0 !important;
 
 }
@@ -92,6 +89,13 @@ body {
 /* =========================================================
    4. MAIN QUARTO LAYOUT
    ========================================================= */
+
+/*
+   Le sommaire ayant été supprimé, le rapport
+   n'utilise plus de colonne latérale.
+
+   Le contenu occupe donc toute la largeur disponible.
+*/
 
 .page-columns {
 
@@ -102,14 +106,7 @@ body {
     none !important;
 
   display:
-    grid !important;
-
-  grid-template-columns:
-    220px
-    minmax(0, 1fr) !important;
-
-  column-gap:
-    35px;
+    block !important;
 
   margin:
     0 !important;
@@ -121,84 +118,7 @@ body {
 
 
 /* =========================================================
-   5. TABLE OF CONTENTS
-   ========================================================= */
-
-#TOC {
-
-  width:
-    205px !important;
-
-  max-width:
-    205px !important;
-
-  margin-left:
-    0 !important;
-
-  margin-right:
-    0 !important;
-
-  padding-left:
-    15px !important;
-
-  padding-right:
-    10px !important;
-
-  font-size:
-    0.88rem;
-
-}
-
-
-/* TOC links */
-
-#TOC .nav-link {
-
-  color:
-    #64748b;
-
-  padding-top:
-    0.3rem;
-
-  padding-bottom:
-    0.3rem;
-
-  padding-left:
-    0.55rem;
-
-  transition:
-    all 0.15s ease;
-
-}
-
-
-#TOC .nav-link:hover {
-
-  color:
-    var(--iris-blue);
-
-  background:
-    #eff6ff;
-
-}
-
-
-#TOC .nav-link.active {
-
-  color:
-    var(--iris-blue);
-
-  font-weight:
-    650;
-
-  border-left:
-    3px solid var(--iris-blue);
-
-}
-
-
-/* =========================================================
-   6. MAIN REPORT CONTENT
+   5. MAIN REPORT CONTENT
    ========================================================= */
 
 .page-columns .content {
@@ -215,14 +135,15 @@ body {
   margin:
     0 !important;
 
-  padding-left:
+  padding:
     0 !important;
-
-  padding-right:
-    20px !important;
 
 }
 
+
+/* =========================================================
+   6. QUARTO DOCUMENT CONTENT
+   ========================================================= */
 
 #quarto-document-content {
 
@@ -234,6 +155,12 @@ body {
 
   margin:
     0 !important;
+
+  padding:
+    0 5rem !important;
+
+  box-sizing:
+    border-box;
 
 }
 
@@ -1284,67 +1211,52 @@ hr {
 
 
 /* =========================================================
-   25. LARGE SCREENS
-   ========================================================= */
-
-@media (min-width: 1600px) {
-
-  .page-columns {
-
-    grid-template-columns:
-      220px
-      minmax(0, 1fr) !important;
-
-    column-gap:
-      40px;
-
-  }
-
-
-  #TOC {
-
-    width:
-      205px !important;
-
-    max-width:
-      205px !important;
-
-  }
-
-}
-
-
-/* =========================================================
-   26. MEDIUM SCREENS
+   25. MEDIUM SCREENS
    ========================================================= */
 
 @media (max-width: 1200px) {
 
+  /*
+     Le rapport reste en pleine largeur.
+     Il n'y a plus de colonne réservée au sommaire.
+  */
+
   .page-columns {
 
-    grid-template-columns:
-      190px
-      minmax(0, 1fr) !important;
+    display:
+      block !important;
 
-    column-gap:
-      25px;
+    width:
+      100% !important;
+
+    max-width:
+      none !important;
+
+    margin:
+      0 !important;
+
+    padding:
+      0 !important;
 
   }
 
 
-  #TOC {
+  .page-columns .content {
 
     width:
-      180px !important;
+      100% !important;
 
     max-width:
-      180px !important;
+      none !important;
+
+    padding:
+      0 !important;
 
   }
 
 
   /*
-     Plotly uniquement :
+     Plotly :
      on élargit légèrement le cadre
      sur les écrans moyens.
   */
@@ -1396,7 +1308,7 @@ hr {
 
 
 /* =========================================================
-   27. MOBILE
+   26. MOBILE
    ========================================================= */
 
 @media (max-width: 900px) {
@@ -1406,25 +1318,17 @@ hr {
     display:
       block !important;
 
-  }
-
-
-  #TOC {
-
     width:
       100% !important;
 
     max-width:
-      100% !important;
+      none !important;
 
-    margin-bottom:
-      1.5rem;
+    margin:
+      0 !important;
 
-    padding-left:
-      15px !important;
-
-    padding-right:
-      15px !important;
+    padding:
+      0 !important;
 
   }
 
@@ -1434,8 +1338,11 @@ hr {
     width:
       100% !important;
 
-    padding-right:
-      15px !important;
+    max-width:
+      none !important;
+
+    padding:
+      0 !important;
 
   }
 
@@ -1541,7 +1448,7 @@ hr {
 
 
 /* =========================================================
-   28. PRINT
+   27. PRINT
    ========================================================= */
 
 @media print {
@@ -1594,38 +1501,63 @@ hr {
 
 }
 
+
 /* =========================================================
-   FIX — GRAPHIQUES PLOTLY : CADRE PROPRE ET SANS DÉBORDEMENT
+   28. PLOTLY — CADRE PROPRE ET SANS DÉBORDEMENT
    ========================================================= */
 
-/* Conteneur du graphique */
+/*
+   Conteneur du graphique.
+   Le graphique reste centré dans le rapport.
+*/
+
 .cell-output-display:has(.plotly-graph-div),
 .cell-output-display:has(.js-plotly-plot),
 .cell-output-display:has(.plot-container) {
 
-  width: 82% !important;
-  max-width: 82% !important;
-  min-width: 0 !important;
+  width:
+    82% !important;
 
-  margin-left: auto !important;
-  margin-right: auto !important;
+  max-width:
+    82% !important;
 
-  padding: 0 !important;
+  min-width:
+    0 !important;
 
-  background: transparent !important;
+  margin-left:
+    auto !important;
 
-  border: none !important;
-  border-radius: 0 !important;
+  margin-right:
+    auto !important;
 
-  box-shadow: none !important;
+  padding:
+    0 !important;
 
-  box-sizing: border-box !important;
+  background:
+    transparent !important;
 
-  overflow: visible !important;
+  border:
+    none !important;
+
+  border-radius:
+    0 !important;
+
+  box-shadow:
+    none !important;
+
+  box-sizing:
+    border-box !important;
+
+  overflow:
+    visible !important;
+
 }
 
 
-/* Graphique Plotly lui-même */
+/*
+   Graphique Plotly lui-même.
+*/
+
 .cell-output-display:has(.plotly-graph-div) .plotly,
 .cell-output-display:has(.plotly-graph-div) .plotly-graph-div,
 .cell-output-display:has(.plotly-graph-div) .js-plotly-plot,
@@ -1633,46 +1565,78 @@ hr {
 .cell-output-display:has(.js-plotly-plot) .plotly-graph-div,
 .cell-output-display:has(.js-plotly-plot) .js-plotly-plot {
 
-  width: 100% !important;
-  max-width: 100% !important;
-  min-width: 0 !important;
+  width:
+    100% !important;
 
-  margin: 0 auto !important;
-  padding: 0 !important;
+  max-width:
+    100% !important;
 
-  box-sizing: border-box !important;
+  min-width:
+    0 !important;
 
-  overflow: visible !important;
+  margin:
+    0 auto !important;
+
+  padding:
+    0 !important;
+
+  box-sizing:
+    border-box !important;
+
+  overflow:
+    visible !important;
+
 }
 
 
-/* Conteneurs internes Plotly */
+/*
+   Conteneurs internes Plotly.
+*/
+
 .cell-output-display:has(.js-plotly-plot) .plot-container,
 .cell-output-display:has(.js-plotly-plot) .svg-container {
 
-  width: 100% !important;
-  max-width: 100% !important;
-  min-width: 0 !important;
+  width:
+    100% !important;
 
-  margin: 0 !important;
-  padding: 0 !important;
+  max-width:
+    100% !important;
 
-  box-sizing: border-box !important;
+  min-width:
+    0 !important;
+
+  margin:
+    0 !important;
+
+  padding:
+    0 !important;
+
+  box-sizing:
+    border-box !important;
+
 }
 
 
-/* SVG Plotly */
+/*
+   SVG Plotly.
+*/
+
 .cell-output-display:has(.js-plotly-plot) .main-svg {
 
-  width: 100% !important;
-  max-width: 100% !important;
+  width:
+    100% !important;
 
-  box-sizing: border-box !important;
+  max-width:
+    100% !important;
+
+  box-sizing:
+    border-box !important;
+
 }
 
 
 /* =========================================================
-   RESPONSIVE
+   29. PLOTLY — RESPONSIVE
    ========================================================= */
 
 @media (max-width: 1200px) {
@@ -1681,8 +1645,11 @@ hr {
   .cell-output-display:has(.js-plotly-plot),
   .cell-output-display:has(.plot-container) {
 
-    width: 90% !important;
-    max-width: 90% !important;
+    width:
+      90% !important;
+
+    max-width:
+      90% !important;
 
   }
 
@@ -1695,37 +1662,12 @@ hr {
   .cell-output-display:has(.js-plotly-plot),
   .cell-output-display:has(.plot-container) {
 
-    width: 100% !important;
-    max-width: 100% !important;
+    width:
+      100% !important;
+
+    max-width:
+      100% !important;
 
   }
 
 }
-
-
-/* --- Espace entre le sommaire et le rapport --- */
-#quarto-sidebar-toc-left {
-  padding-right: 3rem !important;
-}
-
-#quarto-document-content {
-  padding-left: 1rem !important;
-}
-
-/* =========================================================
-   ESPACE ENTRE SOMMAIRE ET RAPPORT — QUARTO
-   ========================================================= */
-
-#quarto-sidebar-toc-left {
-  padding-right: 5rem !important;
-}
-
-#quarto-sidebar-toc-left #TOC {
-  padding-right: 1rem !important;
-}
-
-#quarto-document-content {
-  padding-left: 2rem !important;
-}
-
-
